@@ -1,7 +1,0 @@
-route_id,path_type,direction,seq,sid,sname,lat,lon
-BTS-G,main,go,0,G01,Krung Thon Buri,13.721103,100.503684
-BTS-G,main,go,1,G02,Charoen Nakhon,13.726478,100.509032
-BTS-G,main,go,2,G03,Khlong San,13.730379,100.507646
-BTS-G,main,back,0,G03,Khlong San,13.730379,100.507646
-BTS-G,main,back,1,G02,Charoen Nakhon,13.726478,100.509032
-BTS-G,main,back,2,G01,Krung Thon Buri,13.721103,100.503684
