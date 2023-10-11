@@ -1,0 +1,1555 @@
+train_num,route_id,direction,sid1,sname1,sid2,sname2,ts1,ts2,mins,hrs,day_of_week
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Monday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Monday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Monday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Monday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Monday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Monday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Monday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Monday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Monday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Monday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Monday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Monday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Monday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Monday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Monday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Monday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Monday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Monday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Monday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Monday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Monday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Monday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Monday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Monday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Monday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Monday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Monday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Monday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Monday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Monday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Monday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Monday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Monday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Monday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Monday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Monday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Monday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Monday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Monday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Monday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Monday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Monday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Monday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Monday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Monday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Monday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Monday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Monday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Monday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Monday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Monday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Monday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Monday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Monday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Monday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Monday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Monday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Monday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Monday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Monday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Monday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Monday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Monday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Monday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Monday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Monday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Monday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Monday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Monday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Monday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Monday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Monday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Monday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Monday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Monday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Monday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Monday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Monday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Monday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Monday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Monday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Monday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Monday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Monday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Monday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Monday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Monday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Monday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Monday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Monday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Monday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Monday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Monday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Monday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Monday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Monday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Monday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Monday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Monday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Monday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Monday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Monday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Monday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Monday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Monday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Monday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Monday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Monday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Monday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Monday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Monday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Monday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Monday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Monday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Monday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Monday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Monday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Monday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Monday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Monday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Monday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Monday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Monday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Monday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Monday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Monday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Monday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Monday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Monday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Monday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Monday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Monday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Monday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Monday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Monday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Monday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Monday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Monday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Monday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Monday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Monday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Monday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Monday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Monday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Monday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Monday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Monday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Monday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Monday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Monday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Monday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Monday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Monday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Monday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Monday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Monday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Monday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Monday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Monday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Monday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Monday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Monday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Monday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Monday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Monday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Monday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Monday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Monday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Monday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Monday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Monday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Monday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Monday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Monday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Monday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Monday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Monday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Monday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Monday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Monday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Monday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Monday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Monday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Monday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Monday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Monday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Monday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Monday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Monday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Monday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Monday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Monday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Monday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Monday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Monday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Monday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Monday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Monday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Monday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Monday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Monday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Monday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Monday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Monday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Monday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Monday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Monday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Monday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Monday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Monday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Monday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Monday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Monday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Monday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Monday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Monday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Monday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Monday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Monday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Tuesday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Tuesday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Tuesday
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Tuesday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Tuesday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Tuesday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Tuesday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Tuesday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Tuesday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Tuesday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Tuesday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Tuesday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Tuesday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Tuesday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Tuesday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Tuesday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Tuesday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Tuesday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Tuesday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Tuesday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Tuesday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Tuesday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Tuesday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Tuesday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Tuesday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Tuesday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Tuesday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Tuesday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Tuesday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Tuesday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Tuesday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Tuesday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Tuesday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Tuesday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Tuesday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Tuesday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Tuesday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Tuesday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Tuesday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Tuesday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Tuesday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Tuesday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Tuesday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Tuesday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Tuesday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Tuesday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Tuesday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Tuesday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Tuesday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Tuesday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Tuesday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Tuesday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Tuesday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Tuesday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Tuesday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Tuesday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Tuesday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Tuesday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Tuesday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Tuesday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Tuesday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Tuesday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Tuesday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Tuesday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Tuesday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Tuesday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Tuesday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Tuesday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Tuesday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Tuesday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Tuesday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Tuesday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Tuesday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Tuesday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Tuesday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Tuesday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Tuesday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Tuesday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Tuesday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Tuesday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Tuesday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Tuesday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Tuesday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Tuesday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Tuesday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Tuesday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Tuesday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Tuesday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Tuesday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Tuesday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Tuesday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Tuesday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Tuesday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Tuesday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Tuesday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Tuesday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Tuesday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Tuesday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Tuesday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Tuesday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Tuesday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Tuesday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Tuesday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Tuesday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Tuesday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Tuesday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Tuesday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Tuesday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Tuesday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Tuesday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Tuesday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Tuesday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Tuesday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Tuesday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Tuesday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Tuesday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Tuesday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Tuesday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Tuesday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Tuesday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Tuesday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Tuesday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Tuesday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Tuesday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Tuesday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Tuesday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Tuesday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Tuesday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Tuesday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Tuesday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Tuesday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Tuesday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Tuesday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Tuesday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Tuesday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Tuesday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Tuesday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Tuesday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Tuesday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Tuesday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Tuesday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Tuesday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Tuesday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Tuesday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Tuesday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Tuesday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Tuesday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Tuesday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Tuesday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Tuesday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Tuesday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Tuesday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Tuesday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Tuesday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Tuesday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Tuesday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Tuesday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Tuesday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Tuesday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Tuesday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Tuesday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Tuesday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Tuesday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Tuesday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Tuesday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Tuesday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Tuesday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Tuesday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Tuesday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Tuesday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Tuesday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Tuesday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Tuesday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Tuesday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Tuesday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Tuesday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Tuesday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Tuesday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Tuesday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Tuesday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Tuesday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Tuesday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Tuesday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Tuesday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Tuesday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Tuesday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Tuesday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Tuesday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Tuesday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Tuesday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Tuesday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Tuesday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Tuesday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Tuesday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Tuesday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Tuesday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Tuesday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Tuesday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Tuesday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Tuesday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Tuesday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Tuesday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Tuesday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Tuesday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Tuesday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Tuesday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Tuesday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Tuesday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Tuesday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Tuesday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Tuesday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Tuesday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Tuesday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Tuesday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Tuesday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Tuesday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Tuesday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Tuesday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Tuesday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Tuesday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Tuesday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Tuesday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Wednesday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Wednesday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Wednesday
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Wednesday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Wednesday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Wednesday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Wednesday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Wednesday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Wednesday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Wednesday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Wednesday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Wednesday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Wednesday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Wednesday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Wednesday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Wednesday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Wednesday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Wednesday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Wednesday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Wednesday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Wednesday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Wednesday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Wednesday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Wednesday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Wednesday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Wednesday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Wednesday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Wednesday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Wednesday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Wednesday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Wednesday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Wednesday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Wednesday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Wednesday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Wednesday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Wednesday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Wednesday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Wednesday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Wednesday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Wednesday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Wednesday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Wednesday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Wednesday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Wednesday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Wednesday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Wednesday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Wednesday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Wednesday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Wednesday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Wednesday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Wednesday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Wednesday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Wednesday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Wednesday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Wednesday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Wednesday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Wednesday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Wednesday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Wednesday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Wednesday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Wednesday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Wednesday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Wednesday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Wednesday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Wednesday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Wednesday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Wednesday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Wednesday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Wednesday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Wednesday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Wednesday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Wednesday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Wednesday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Wednesday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Wednesday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Wednesday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Wednesday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Wednesday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Wednesday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Wednesday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Wednesday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Wednesday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Wednesday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Wednesday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Wednesday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Wednesday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Wednesday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Wednesday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Wednesday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Wednesday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Wednesday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Wednesday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Wednesday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Wednesday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Wednesday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Wednesday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Wednesday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Wednesday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Wednesday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Wednesday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Wednesday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Wednesday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Wednesday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Wednesday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Wednesday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Wednesday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Wednesday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Wednesday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Wednesday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Wednesday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Wednesday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Wednesday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Wednesday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Wednesday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Wednesday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Wednesday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Wednesday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Wednesday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Wednesday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Wednesday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Wednesday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Wednesday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Wednesday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Wednesday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Wednesday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Wednesday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Wednesday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Wednesday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Wednesday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Wednesday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Wednesday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Wednesday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Wednesday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Wednesday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Wednesday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Wednesday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Wednesday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Wednesday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Wednesday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Wednesday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Wednesday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Wednesday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Wednesday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Wednesday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Wednesday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Wednesday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Wednesday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Wednesday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Wednesday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Wednesday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Wednesday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Wednesday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Wednesday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Wednesday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Wednesday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Wednesday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Wednesday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Wednesday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Wednesday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Wednesday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Wednesday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Wednesday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Wednesday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Wednesday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Wednesday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Wednesday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Wednesday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Wednesday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Wednesday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Wednesday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Wednesday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Wednesday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Wednesday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Wednesday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Wednesday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Wednesday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Wednesday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Wednesday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Wednesday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Wednesday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Wednesday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Wednesday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Wednesday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Wednesday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Wednesday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Wednesday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Wednesday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Wednesday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Wednesday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Wednesday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Wednesday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Wednesday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Wednesday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Wednesday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Wednesday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Wednesday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Wednesday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Wednesday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Wednesday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Wednesday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Wednesday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Wednesday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Wednesday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Wednesday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Wednesday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Wednesday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Wednesday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Wednesday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Wednesday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Wednesday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Wednesday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Wednesday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Wednesday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Wednesday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Wednesday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Wednesday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Wednesday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Wednesday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Wednesday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Wednesday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Wednesday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Wednesday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Thursday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Thursday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Thursday
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Thursday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Thursday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Thursday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Thursday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Thursday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Thursday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Thursday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Thursday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Thursday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Thursday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Thursday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Thursday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Thursday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Thursday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Thursday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Thursday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Thursday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Thursday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Thursday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Thursday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Thursday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Thursday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Thursday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Thursday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Thursday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Thursday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Thursday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Thursday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Thursday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Thursday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Thursday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Thursday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Thursday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Thursday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Thursday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Thursday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Thursday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Thursday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Thursday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Thursday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Thursday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Thursday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Thursday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Thursday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Thursday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Thursday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Thursday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Thursday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Thursday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Thursday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Thursday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Thursday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Thursday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Thursday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Thursday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Thursday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Thursday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Thursday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Thursday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Thursday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Thursday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Thursday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Thursday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Thursday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Thursday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Thursday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Thursday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Thursday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Thursday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Thursday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Thursday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Thursday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Thursday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Thursday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Thursday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Thursday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Thursday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Thursday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Thursday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Thursday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Thursday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Thursday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Thursday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Thursday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Thursday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Thursday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Thursday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Thursday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Thursday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Thursday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Thursday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Thursday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Thursday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Thursday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Thursday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Thursday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Thursday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Thursday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Thursday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Thursday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Thursday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Thursday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Thursday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Thursday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Thursday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Thursday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Thursday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Thursday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Thursday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Thursday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Thursday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Thursday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Thursday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Thursday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Thursday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Thursday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Thursday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Thursday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Thursday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Thursday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Thursday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Thursday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Thursday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Thursday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Thursday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Thursday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Thursday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Thursday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Thursday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Thursday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Thursday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Thursday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Thursday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Thursday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Thursday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Thursday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Thursday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Thursday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Thursday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Thursday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Thursday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Thursday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Thursday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Thursday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Thursday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Thursday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Thursday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Thursday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Thursday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Thursday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Thursday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Thursday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Thursday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Thursday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Thursday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Thursday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Thursday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Thursday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Thursday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Thursday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Thursday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Thursday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Thursday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Thursday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Thursday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Thursday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Thursday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Thursday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Thursday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Thursday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Thursday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Thursday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Thursday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Thursday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Thursday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Thursday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Thursday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Thursday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Thursday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Thursday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Thursday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Thursday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Thursday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Thursday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Thursday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Thursday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Thursday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Thursday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Thursday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Thursday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Thursday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Thursday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Thursday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Thursday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Thursday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Thursday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Thursday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Thursday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Thursday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Thursday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Thursday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Thursday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Thursday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Thursday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Thursday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Thursday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Thursday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Thursday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Thursday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Thursday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Thursday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Thursday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Thursday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Thursday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Thursday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Thursday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Thursday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Thursday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Thursday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Friday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Friday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Friday
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Friday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Friday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Friday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Friday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Friday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Friday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Friday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Friday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Friday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Friday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Friday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Friday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Friday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Friday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Friday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Friday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Friday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Friday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Friday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Friday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Friday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Friday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Friday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Friday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Friday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Friday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Friday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Friday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Friday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Friday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Friday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Friday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Friday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Friday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Friday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Friday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Friday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Friday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Friday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Friday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Friday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Friday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Friday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Friday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Friday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Friday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Friday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Friday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Friday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Friday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Friday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Friday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Friday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Friday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Friday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Friday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Friday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Friday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Friday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Friday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Friday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Friday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Friday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Friday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Friday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Friday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Friday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Friday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Friday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Friday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Friday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Friday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Friday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Friday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Friday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Friday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Friday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Friday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Friday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Friday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Friday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Friday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Friday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Friday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Friday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Friday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Friday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Friday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Friday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Friday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Friday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Friday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Friday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Friday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Friday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Friday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Friday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Friday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Friday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Friday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Friday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Friday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Friday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Friday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Friday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Friday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Friday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Friday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Friday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Friday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Friday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Friday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Friday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Friday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Friday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Friday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Friday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Friday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Friday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Friday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Friday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Friday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Friday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Friday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Friday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Friday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Friday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Friday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Friday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Friday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Friday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Friday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Friday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Friday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Friday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Friday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Friday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Friday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Friday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Friday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Friday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Friday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Friday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Friday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Friday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Friday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Friday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Friday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Friday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Friday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Friday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Friday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Friday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Friday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Friday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Friday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Friday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Friday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Friday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Friday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Friday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Friday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Friday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Friday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Friday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Friday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Friday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Friday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Friday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Friday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Friday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Friday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Friday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Friday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Friday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Friday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Friday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Friday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Friday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Friday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Friday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Friday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Friday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Friday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Friday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Friday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Friday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Friday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Friday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Friday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Friday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Friday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Friday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Friday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Friday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Friday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Friday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Friday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Friday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Friday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Friday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Friday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Friday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Friday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Friday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Friday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Friday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Friday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Friday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Friday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Friday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Friday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Friday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Friday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Friday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Friday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Friday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Friday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Friday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Saturday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Saturday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Saturday
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Saturday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Saturday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Saturday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Saturday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Saturday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Saturday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Saturday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Saturday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Saturday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Saturday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Saturday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Saturday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Saturday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Saturday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Saturday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Saturday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Saturday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Saturday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Saturday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Saturday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Saturday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Saturday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Saturday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Saturday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Saturday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Saturday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Saturday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Saturday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Saturday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Saturday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Saturday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Saturday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Saturday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Saturday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Saturday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Saturday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Saturday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Saturday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Saturday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Saturday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Saturday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Saturday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Saturday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Saturday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Saturday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Saturday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Saturday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Saturday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Saturday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Saturday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Saturday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Saturday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Saturday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Saturday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Saturday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Saturday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Saturday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Saturday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Saturday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Saturday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Saturday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Saturday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Saturday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Saturday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Saturday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Saturday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Saturday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Saturday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Saturday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Saturday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Saturday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Saturday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Saturday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Saturday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Saturday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Saturday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Saturday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Saturday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Saturday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Saturday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Saturday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Saturday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Saturday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Saturday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Saturday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Saturday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Saturday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Saturday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Saturday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Saturday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Saturday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Saturday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Saturday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Saturday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Saturday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Saturday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Saturday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Saturday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Saturday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Saturday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Saturday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Saturday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Saturday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Saturday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Saturday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Saturday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Saturday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Saturday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Saturday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Saturday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Saturday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Saturday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Saturday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Saturday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Saturday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Saturday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Saturday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Saturday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Saturday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Saturday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Saturday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Saturday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Saturday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Saturday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Saturday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Saturday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Saturday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Saturday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Saturday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Saturday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Saturday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Saturday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Saturday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Saturday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Saturday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Saturday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Saturday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Saturday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Saturday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Saturday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Saturday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Saturday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Saturday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Saturday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Saturday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Saturday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Saturday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Saturday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Saturday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Saturday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Saturday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Saturday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Saturday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Saturday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Saturday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Saturday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Saturday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Saturday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Saturday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Saturday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Saturday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Saturday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Saturday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Saturday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Saturday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Saturday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Saturday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Saturday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Saturday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Saturday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Saturday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Saturday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Saturday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Saturday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Saturday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Saturday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Saturday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Saturday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Saturday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Saturday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Saturday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Saturday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Saturday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Saturday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Saturday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Saturday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Saturday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Saturday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Saturday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Saturday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Saturday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Saturday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Saturday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Saturday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Saturday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Saturday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Saturday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Saturday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Saturday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Saturday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Saturday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Saturday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Saturday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Saturday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Saturday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Saturday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Saturday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Saturday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Saturday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Saturday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Saturday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Saturday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Saturday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Saturday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Saturday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Saturday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Saturday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Saturday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Saturday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Sunday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Sunday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Sunday
+1,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:00:00,06:09:00,9.0,6,Sunday
+1,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:09:00,06:11:00,2.0,6,Sunday
+2,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:15:00,06:24:00,9.0,6,Sunday
+2,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:24:00,06:26:00,2.0,6,Sunday
+3,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:30:00,06:39:00,9.0,6,Sunday
+3,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:39:00,06:41:00,2.0,6,Sunday
+4,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,06:45:00,06:54:00,9.0,6,Sunday
+4,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,06:54:00,06:56:00,2.0,6,Sunday
+5,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:00:00,07:09:00,9.0,7,Sunday
+5,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:09:00,07:11:00,2.0,7,Sunday
+6,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:10:00,07:19:00,9.0,7,Sunday
+6,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:19:00,07:21:00,2.0,7,Sunday
+7,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:20:00,07:29:00,9.0,7,Sunday
+7,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:29:00,07:31:00,2.0,7,Sunday
+8,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:30:00,07:39:00,9.0,7,Sunday
+8,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:39:00,07:41:00,2.0,7,Sunday
+9,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:40:00,07:49:00,9.0,7,Sunday
+9,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:49:00,07:51:00,2.0,7,Sunday
+10,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,07:50:00,07:59:00,9.0,7,Sunday
+10,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,07:59:00,08:01:00,2.0,7,Sunday
+11,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:00:00,08:09:00,9.0,8,Sunday
+11,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:09:00,08:11:00,2.0,8,Sunday
+12,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:10:00,08:19:00,9.0,8,Sunday
+12,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:19:00,08:21:00,2.0,8,Sunday
+13,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:20:00,08:29:00,9.0,8,Sunday
+13,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:29:00,08:31:00,2.0,8,Sunday
+14,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:30:00,08:39:00,9.0,8,Sunday
+14,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:39:00,08:41:00,2.0,8,Sunday
+15,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:40:00,08:49:00,9.0,8,Sunday
+15,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:49:00,08:51:00,2.0,8,Sunday
+16,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,08:50:00,08:59:00,9.0,8,Sunday
+16,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,08:59:00,09:01:00,2.0,8,Sunday
+17,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:00:00,09:09:00,9.0,9,Sunday
+17,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:09:00,09:11:00,2.0,9,Sunday
+18,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:10:00,09:19:00,9.0,9,Sunday
+18,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:19:00,09:21:00,2.0,9,Sunday
+19,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:20:00,09:29:00,9.0,9,Sunday
+19,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:29:00,09:31:00,2.0,9,Sunday
+20,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:30:00,09:39:00,9.0,9,Sunday
+20,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:39:00,09:41:00,2.0,9,Sunday
+21,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:40:00,09:49:00,9.0,9,Sunday
+21,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:49:00,09:51:00,2.0,9,Sunday
+22,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,09:50:00,09:59:00,9.0,9,Sunday
+22,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,09:59:00,10:01:00,2.0,9,Sunday
+23,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:00:00,10:09:00,9.0,10,Sunday
+23,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:09:00,10:11:00,2.0,10,Sunday
+24,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:10:00,10:19:00,9.0,10,Sunday
+24,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:19:00,10:21:00,2.0,10,Sunday
+25,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:20:00,10:29:00,9.0,10,Sunday
+25,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:29:00,10:31:00,2.0,10,Sunday
+26,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:30:00,10:39:00,9.0,10,Sunday
+26,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:39:00,10:41:00,2.0,10,Sunday
+27,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:40:00,10:49:00,9.0,10,Sunday
+27,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:49:00,10:51:00,2.0,10,Sunday
+28,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,10:50:00,10:59:00,9.0,10,Sunday
+28,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,10:59:00,11:01:00,2.0,10,Sunday
+29,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:00:00,11:09:00,9.0,11,Sunday
+29,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:09:00,11:11:00,2.0,11,Sunday
+30,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:10:00,11:19:00,9.0,11,Sunday
+30,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:19:00,11:21:00,2.0,11,Sunday
+31,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:20:00,11:29:00,9.0,11,Sunday
+31,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:29:00,11:31:00,2.0,11,Sunday
+32,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:30:00,11:39:00,9.0,11,Sunday
+32,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:39:00,11:41:00,2.0,11,Sunday
+33,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:40:00,11:49:00,9.0,11,Sunday
+33,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:49:00,11:51:00,2.0,11,Sunday
+34,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,11:50:00,11:59:00,9.0,11,Sunday
+34,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,11:59:00,12:01:00,2.0,11,Sunday
+35,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:00:00,12:09:00,9.0,12,Sunday
+35,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:09:00,12:11:00,2.0,12,Sunday
+36,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:10:00,12:19:00,9.0,12,Sunday
+36,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:19:00,12:21:00,2.0,12,Sunday
+37,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:20:00,12:29:00,9.0,12,Sunday
+37,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:29:00,12:31:00,2.0,12,Sunday
+38,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:30:00,12:39:00,9.0,12,Sunday
+38,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:39:00,12:41:00,2.0,12,Sunday
+39,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:40:00,12:49:00,9.0,12,Sunday
+39,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:49:00,12:51:00,2.0,12,Sunday
+40,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,12:50:00,12:59:00,9.0,12,Sunday
+40,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,12:59:00,13:01:00,2.0,12,Sunday
+41,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:00:00,13:09:00,9.0,13,Sunday
+41,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:09:00,13:11:00,2.0,13,Sunday
+42,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:10:00,13:19:00,9.0,13,Sunday
+42,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:19:00,13:21:00,2.0,13,Sunday
+43,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:20:00,13:29:00,9.0,13,Sunday
+43,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:29:00,13:31:00,2.0,13,Sunday
+44,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:30:00,13:39:00,9.0,13,Sunday
+44,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:39:00,13:41:00,2.0,13,Sunday
+45,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:40:00,13:49:00,9.0,13,Sunday
+45,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:49:00,13:51:00,2.0,13,Sunday
+46,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,13:50:00,13:59:00,9.0,13,Sunday
+46,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,13:59:00,14:01:00,2.0,13,Sunday
+47,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:00:00,14:09:00,9.0,14,Sunday
+47,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:09:00,14:11:00,2.0,14,Sunday
+48,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:10:00,14:19:00,9.0,14,Sunday
+48,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:19:00,14:21:00,2.0,14,Sunday
+49,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:20:00,14:29:00,9.0,14,Sunday
+49,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:29:00,14:31:00,2.0,14,Sunday
+50,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:30:00,14:39:00,9.0,14,Sunday
+50,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:39:00,14:41:00,2.0,14,Sunday
+51,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:40:00,14:49:00,9.0,14,Sunday
+51,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:49:00,14:51:00,2.0,14,Sunday
+52,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,14:50:00,14:59:00,9.0,14,Sunday
+52,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,14:59:00,15:01:00,2.0,14,Sunday
+53,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:00:00,15:09:00,9.0,15,Sunday
+53,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:09:00,15:11:00,2.0,15,Sunday
+54,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:10:00,15:19:00,9.0,15,Sunday
+54,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:19:00,15:21:00,2.0,15,Sunday
+55,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:20:00,15:29:00,9.0,15,Sunday
+55,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:29:00,15:31:00,2.0,15,Sunday
+56,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:30:00,15:39:00,9.0,15,Sunday
+56,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:39:00,15:41:00,2.0,15,Sunday
+57,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:40:00,15:49:00,9.0,15,Sunday
+57,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:49:00,15:51:00,2.0,15,Sunday
+58,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:50:00,15:59:00,9.0,15,Sunday
+58,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,15:59:00,16:01:00,2.0,15,Sunday
+59,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,15:58:00,16:07:00,9.0,15,Sunday
+59,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:07:00,16:09:00,2.0,16,Sunday
+60,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:06:00,16:15:00,9.0,16,Sunday
+60,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:15:00,16:17:00,2.0,16,Sunday
+61,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:14:00,16:23:00,9.0,16,Sunday
+61,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:23:00,16:25:00,2.0,16,Sunday
+62,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:22:00,16:31:00,9.0,16,Sunday
+62,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:31:00,16:33:00,2.0,16,Sunday
+63,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:30:00,16:39:00,9.0,16,Sunday
+63,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:39:00,16:41:00,2.0,16,Sunday
+64,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:38:00,16:47:00,9.0,16,Sunday
+64,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:47:00,16:49:00,2.0,16,Sunday
+65,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:46:00,16:55:00,9.0,16,Sunday
+65,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,16:55:00,16:57:00,2.0,16,Sunday
+66,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,16:54:00,17:03:00,9.0,16,Sunday
+66,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:03:00,17:05:00,2.0,17,Sunday
+67,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:02:00,17:11:00,9.0,17,Sunday
+67,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:11:00,17:13:00,2.0,17,Sunday
+68,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:10:00,17:19:00,9.0,17,Sunday
+68,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:19:00,17:21:00,2.0,17,Sunday
+69,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:18:00,17:27:00,9.0,17,Sunday
+69,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:27:00,17:29:00,2.0,17,Sunday
+70,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:26:00,17:35:00,9.0,17,Sunday
+70,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:35:00,17:37:00,2.0,17,Sunday
+71,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:34:00,17:43:00,9.0,17,Sunday
+71,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:43:00,17:45:00,2.0,17,Sunday
+72,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:42:00,17:51:00,9.0,17,Sunday
+72,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:51:00,17:53:00,2.0,17,Sunday
+73,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:50:00,17:59:00,9.0,17,Sunday
+73,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,17:59:00,18:01:00,2.0,17,Sunday
+74,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,17:58:00,18:07:00,9.0,17,Sunday
+74,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:07:00,18:09:00,2.0,18,Sunday
+75,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:06:00,18:15:00,9.0,18,Sunday
+75,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:15:00,18:17:00,2.0,18,Sunday
+76,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:14:00,18:23:00,9.0,18,Sunday
+76,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:23:00,18:25:00,2.0,18,Sunday
+77,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:22:00,18:31:00,9.0,18,Sunday
+77,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:31:00,18:33:00,2.0,18,Sunday
+78,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:30:00,18:39:00,9.0,18,Sunday
+78,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:39:00,18:41:00,2.0,18,Sunday
+79,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:38:00,18:47:00,9.0,18,Sunday
+79,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:47:00,18:49:00,2.0,18,Sunday
+80,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:46:00,18:55:00,9.0,18,Sunday
+80,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,18:55:00,18:57:00,2.0,18,Sunday
+81,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,18:54:00,19:03:00,9.0,18,Sunday
+81,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:03:00,19:05:00,2.0,19,Sunday
+82,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:02:00,19:11:00,9.0,19,Sunday
+82,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:11:00,19:13:00,2.0,19,Sunday
+83,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:10:00,19:19:00,9.0,19,Sunday
+83,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:19:00,19:21:00,2.0,19,Sunday
+84,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:18:00,19:27:00,9.0,19,Sunday
+84,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:27:00,19:29:00,2.0,19,Sunday
+85,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:26:00,19:35:00,9.0,19,Sunday
+85,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:35:00,19:37:00,2.0,19,Sunday
+86,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:34:00,19:43:00,9.0,19,Sunday
+86,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:43:00,19:45:00,2.0,19,Sunday
+87,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:42:00,19:51:00,9.0,19,Sunday
+87,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:51:00,19:53:00,2.0,19,Sunday
+88,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:50:00,19:59:00,9.0,19,Sunday
+88,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,19:59:00,20:01:00,2.0,19,Sunday
+89,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,19:58:00,20:07:00,9.0,19,Sunday
+89,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:07:00,20:09:00,2.0,20,Sunday
+90,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:06:00,20:15:00,9.0,20,Sunday
+90,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:15:00,20:17:00,2.0,20,Sunday
+91,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:14:00,20:23:00,9.0,20,Sunday
+91,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:23:00,20:25:00,2.0,20,Sunday
+92,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:22:00,20:31:00,9.0,20,Sunday
+92,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:31:00,20:33:00,2.0,20,Sunday
+93,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:30:00,20:39:00,9.0,20,Sunday
+93,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:39:00,20:41:00,2.0,20,Sunday
+94,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:38:00,20:47:00,9.0,20,Sunday
+94,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:47:00,20:49:00,2.0,20,Sunday
+95,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:46:00,20:55:00,9.0,20,Sunday
+95,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,20:55:00,20:57:00,2.0,20,Sunday
+96,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,20:54:00,21:03:00,9.0,20,Sunday
+96,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:03:00,21:05:00,2.0,21,Sunday
+97,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:04:00,21:13:00,9.0,21,Sunday
+97,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:13:00,21:15:00,2.0,21,Sunday
+98,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:14:00,21:23:00,9.0,21,Sunday
+98,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:23:00,21:25:00,2.0,21,Sunday
+99,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:24:00,21:33:00,9.0,21,Sunday
+99,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:33:00,21:35:00,2.0,21,Sunday
+100,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:34:00,21:43:00,9.0,21,Sunday
+100,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:43:00,21:45:00,2.0,21,Sunday
+101,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:44:00,21:53:00,9.0,21,Sunday
+101,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,21:53:00,21:55:00,2.0,21,Sunday
+102,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,21:54:00,22:03:00,9.0,21,Sunday
+102,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:03:00,22:05:00,2.0,22,Sunday
+103,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:09:00,22:18:00,9.0,22,Sunday
+103,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:18:00,22:20:00,2.0,22,Sunday
+104,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:24:00,22:33:00,9.0,22,Sunday
+104,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:33:00,22:35:00,2.0,22,Sunday
+105,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:39:00,22:48:00,9.0,22,Sunday
+105,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,22:48:00,22:50:00,2.0,22,Sunday
+106,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,22:54:00,23:03:00,9.0,22,Sunday
+106,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:03:00,23:05:00,2.0,23,Sunday
+107,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:09:00,23:18:00,9.0,23,Sunday
+107,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:18:00,23:20:00,2.0,23,Sunday
+108,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:24:00,23:33:00,9.0,23,Sunday
+108,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:33:00,23:35:00,2.0,23,Sunday
+109,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:39:00,23:48:00,9.0,23,Sunday
+109,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,23:48:00,23:50:00,2.0,23,Sunday
+110,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,23:54:00,00:03:00,8.983333333333333,23,Sunday
+110,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:03:00,00:05:00,2.0,0,Monday
+111,BTS-G,go,G01,Krung Thon Buri,G02,Charoen Nakhon,00:14:00,00:23:00,9.0,0,Monday
+111,BTS-G,go,G02,Charoen Nakhon,G03,Khlong San,00:23:00,00:25:00,2.0,0,Monday

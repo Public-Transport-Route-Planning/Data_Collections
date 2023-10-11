@@ -1,0 +1,1317 @@
+train_num,route_id,direction,sid1,sname1,sid2,sname2,ts1,ts2,mins,hrs,day_of_week
+1,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,05:30:00,05:35:00,5.0,5,Saturday
+1,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,05:35:00,05:40:00,5.0,5,Saturday
+1,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,05:40:00,05:44:00,4.0,5,Saturday
+1,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,05:44:00,05:48:00,4.0,5,Saturday
+1,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,05:48:00,05:53:00,5.0,5,Saturday
+1,ARL,go,A06,Makkasan,A07,Ratchaprarop,05:53:00,05:56:00,3.0,5,Saturday
+1,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,05:56:00,05:58:00,2.0,5,Saturday
+2,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,05:42:00,05:47:00,5.0,5,Saturday
+2,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,05:47:00,05:52:00,5.0,5,Saturday
+2,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,05:52:00,05:56:00,4.0,5,Saturday
+2,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,05:56:00,06:00:00,4.0,5,Saturday
+2,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:00:00,06:05:00,5.0,6,Saturday
+2,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:05:00,06:08:00,3.0,6,Saturday
+2,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:08:00,06:10:00,2.0,6,Saturday
+3,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,05:54:00,05:59:00,5.0,5,Saturday
+3,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,05:59:00,06:04:00,5.0,5,Saturday
+3,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:04:00,06:08:00,4.0,6,Saturday
+3,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:08:00,06:12:00,4.0,6,Saturday
+3,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:12:00,06:17:00,5.0,6,Saturday
+3,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:17:00,06:20:00,3.0,6,Saturday
+3,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:20:00,06:22:00,2.0,6,Saturday
+4,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:06:00,06:11:00,5.0,6,Saturday
+4,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:11:00,06:16:00,5.0,6,Saturday
+4,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:16:00,06:20:00,4.0,6,Saturday
+4,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:20:00,06:24:00,4.0,6,Saturday
+4,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:24:00,06:29:00,5.0,6,Saturday
+4,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:29:00,06:32:00,3.0,6,Saturday
+4,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:32:00,06:34:00,2.0,6,Saturday
+5,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:18:00,06:23:00,5.0,6,Saturday
+5,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:23:00,06:28:00,5.0,6,Saturday
+5,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:28:00,06:32:00,4.0,6,Saturday
+5,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:32:00,06:36:00,4.0,6,Saturday
+5,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:36:00,06:41:00,5.0,6,Saturday
+5,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:41:00,06:44:00,3.0,6,Saturday
+5,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:44:00,06:46:00,2.0,6,Saturday
+6,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:30:00,06:35:00,5.0,6,Saturday
+6,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:35:00,06:40:00,5.0,6,Saturday
+6,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:40:00,06:44:00,4.0,6,Saturday
+6,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:44:00,06:48:00,4.0,6,Saturday
+6,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:48:00,06:53:00,5.0,6,Saturday
+6,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:53:00,06:56:00,3.0,6,Saturday
+6,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:56:00,06:58:00,2.0,6,Saturday
+7,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:42:00,06:47:00,5.0,6,Saturday
+7,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:47:00,06:52:00,5.0,6,Saturday
+7,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:52:00,06:56:00,4.0,6,Saturday
+7,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:56:00,07:00:00,4.0,6,Saturday
+7,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:00:00,07:05:00,5.0,7,Saturday
+7,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:05:00,07:08:00,3.0,7,Saturday
+7,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:08:00,07:10:00,2.0,7,Saturday
+8,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:54:00,06:59:00,5.0,6,Saturday
+8,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:59:00,07:04:00,5.0,6,Saturday
+8,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:04:00,07:08:00,4.0,7,Saturday
+8,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:08:00,07:12:00,4.0,7,Saturday
+8,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:12:00,07:17:00,5.0,7,Saturday
+8,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:17:00,07:20:00,3.0,7,Saturday
+8,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:20:00,07:22:00,2.0,7,Saturday
+9,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:06:00,07:11:00,5.0,7,Saturday
+9,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:11:00,07:16:00,5.0,7,Saturday
+9,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:16:00,07:20:00,4.0,7,Saturday
+9,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:20:00,07:24:00,4.0,7,Saturday
+9,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:24:00,07:29:00,5.0,7,Saturday
+9,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:29:00,07:32:00,3.0,7,Saturday
+9,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:32:00,07:34:00,2.0,7,Saturday
+10,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:18:00,07:23:00,5.0,7,Saturday
+10,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:23:00,07:28:00,5.0,7,Saturday
+10,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:28:00,07:32:00,4.0,7,Saturday
+10,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:32:00,07:36:00,4.0,7,Saturday
+10,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:36:00,07:41:00,5.0,7,Saturday
+10,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:41:00,07:44:00,3.0,7,Saturday
+10,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:44:00,07:46:00,2.0,7,Saturday
+11,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:30:00,07:35:00,5.0,7,Saturday
+11,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:35:00,07:40:00,5.0,7,Saturday
+11,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:40:00,07:44:00,4.0,7,Saturday
+11,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:44:00,07:48:00,4.0,7,Saturday
+11,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:48:00,07:53:00,5.0,7,Saturday
+11,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:53:00,07:56:00,3.0,7,Saturday
+11,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:56:00,07:58:00,2.0,7,Saturday
+12,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:42:00,07:47:00,5.0,7,Saturday
+12,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:47:00,07:52:00,5.0,7,Saturday
+12,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:52:00,07:56:00,4.0,7,Saturday
+12,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:56:00,08:00:00,4.0,7,Saturday
+12,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:00:00,08:05:00,5.0,8,Saturday
+12,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:05:00,08:08:00,3.0,8,Saturday
+12,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:08:00,08:10:00,2.0,8,Saturday
+13,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:54:00,07:59:00,5.0,7,Saturday
+13,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:59:00,08:04:00,5.0,7,Saturday
+13,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:04:00,08:08:00,4.0,8,Saturday
+13,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:08:00,08:12:00,4.0,8,Saturday
+13,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:12:00,08:17:00,5.0,8,Saturday
+13,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:17:00,08:20:00,3.0,8,Saturday
+13,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:20:00,08:22:00,2.0,8,Saturday
+14,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:06:00,08:11:00,5.0,8,Saturday
+14,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:11:00,08:16:00,5.0,8,Saturday
+14,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:16:00,08:20:00,4.0,8,Saturday
+14,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:20:00,08:24:00,4.0,8,Saturday
+14,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:24:00,08:29:00,5.0,8,Saturday
+14,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:29:00,08:32:00,3.0,8,Saturday
+14,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:32:00,08:34:00,2.0,8,Saturday
+15,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:18:00,08:23:00,5.0,8,Saturday
+15,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:23:00,08:28:00,5.0,8,Saturday
+15,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:28:00,08:32:00,4.0,8,Saturday
+15,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:32:00,08:36:00,4.0,8,Saturday
+15,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:36:00,08:41:00,5.0,8,Saturday
+15,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:41:00,08:44:00,3.0,8,Saturday
+15,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:44:00,08:46:00,2.0,8,Saturday
+16,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:30:00,08:35:00,5.0,8,Saturday
+16,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:35:00,08:40:00,5.0,8,Saturday
+16,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:40:00,08:44:00,4.0,8,Saturday
+16,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:44:00,08:48:00,4.0,8,Saturday
+16,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:48:00,08:53:00,5.0,8,Saturday
+16,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:53:00,08:56:00,3.0,8,Saturday
+16,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:56:00,08:58:00,2.0,8,Saturday
+17,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:42:00,08:47:00,5.0,8,Saturday
+17,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:47:00,08:52:00,5.0,8,Saturday
+17,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:52:00,08:56:00,4.0,8,Saturday
+17,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:56:00,09:00:00,4.0,8,Saturday
+17,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:00:00,09:05:00,5.0,9,Saturday
+17,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:05:00,09:08:00,3.0,9,Saturday
+17,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:08:00,09:10:00,2.0,9,Saturday
+18,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:54:00,08:59:00,5.0,8,Saturday
+18,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:59:00,09:04:00,5.0,8,Saturday
+18,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:04:00,09:08:00,4.0,9,Saturday
+18,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:08:00,09:12:00,4.0,9,Saturday
+18,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:12:00,09:17:00,5.0,9,Saturday
+18,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:17:00,09:20:00,3.0,9,Saturday
+18,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:20:00,09:22:00,2.0,9,Saturday
+19,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:06:00,09:11:00,5.0,9,Saturday
+19,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:11:00,09:16:00,5.0,9,Saturday
+19,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:16:00,09:20:00,4.0,9,Saturday
+19,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:20:00,09:24:00,4.0,9,Saturday
+19,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:24:00,09:29:00,5.0,9,Saturday
+19,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:29:00,09:32:00,3.0,9,Saturday
+19,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:32:00,09:34:00,2.0,9,Saturday
+20,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:18:00,09:23:00,5.0,9,Saturday
+20,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:23:00,09:28:00,5.0,9,Saturday
+20,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:28:00,09:32:00,4.0,9,Saturday
+20,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:32:00,09:36:00,4.0,9,Saturday
+20,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:36:00,09:41:00,5.0,9,Saturday
+20,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:41:00,09:44:00,3.0,9,Saturday
+20,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:44:00,09:46:00,2.0,9,Saturday
+21,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:30:00,09:35:00,5.0,9,Saturday
+21,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:35:00,09:40:00,5.0,9,Saturday
+21,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:40:00,09:44:00,4.0,9,Saturday
+21,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:44:00,09:48:00,4.0,9,Saturday
+21,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:48:00,09:53:00,5.0,9,Saturday
+21,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:53:00,09:56:00,3.0,9,Saturday
+21,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:56:00,09:58:00,2.0,9,Saturday
+22,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:42:00,09:47:00,5.0,9,Saturday
+22,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:47:00,09:52:00,5.0,9,Saturday
+22,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:52:00,09:56:00,4.0,9,Saturday
+22,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:56:00,10:00:00,4.0,9,Saturday
+22,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:00:00,10:05:00,5.0,10,Saturday
+22,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:05:00,10:08:00,3.0,10,Saturday
+22,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:08:00,10:10:00,2.0,10,Saturday
+23,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:54:00,09:59:00,5.0,9,Saturday
+23,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:59:00,10:04:00,5.0,9,Saturday
+23,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:04:00,10:08:00,4.0,10,Saturday
+23,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:08:00,10:12:00,4.0,10,Saturday
+23,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:12:00,10:17:00,5.0,10,Saturday
+23,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:17:00,10:20:00,3.0,10,Saturday
+23,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:20:00,10:22:00,2.0,10,Saturday
+24,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:06:00,10:11:00,5.0,10,Saturday
+24,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:11:00,10:16:00,5.0,10,Saturday
+24,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:16:00,10:20:00,4.0,10,Saturday
+24,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:20:00,10:24:00,4.0,10,Saturday
+24,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:24:00,10:29:00,5.0,10,Saturday
+24,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:29:00,10:32:00,3.0,10,Saturday
+24,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:32:00,10:34:00,2.0,10,Saturday
+25,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:18:00,10:23:00,5.0,10,Saturday
+25,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:23:00,10:28:00,5.0,10,Saturday
+25,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:28:00,10:32:00,4.0,10,Saturday
+25,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:32:00,10:36:00,4.0,10,Saturday
+25,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:36:00,10:41:00,5.0,10,Saturday
+25,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:41:00,10:44:00,3.0,10,Saturday
+25,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:44:00,10:46:00,2.0,10,Saturday
+26,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:30:00,10:35:00,5.0,10,Saturday
+26,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:35:00,10:40:00,5.0,10,Saturday
+26,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:40:00,10:44:00,4.0,10,Saturday
+26,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:44:00,10:48:00,4.0,10,Saturday
+26,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:48:00,10:53:00,5.0,10,Saturday
+26,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:53:00,10:56:00,3.0,10,Saturday
+26,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:56:00,10:58:00,2.0,10,Saturday
+27,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:42:00,10:47:00,5.0,10,Saturday
+27,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:47:00,10:52:00,5.0,10,Saturday
+27,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:52:00,10:56:00,4.0,10,Saturday
+27,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:56:00,11:00:00,4.0,10,Saturday
+27,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:00:00,11:05:00,5.0,11,Saturday
+27,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:05:00,11:08:00,3.0,11,Saturday
+27,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:08:00,11:10:00,2.0,11,Saturday
+28,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:54:00,10:59:00,5.0,10,Saturday
+28,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:59:00,11:04:00,5.0,10,Saturday
+28,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:04:00,11:08:00,4.0,11,Saturday
+28,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:08:00,11:12:00,4.0,11,Saturday
+28,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:12:00,11:17:00,5.0,11,Saturday
+28,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:17:00,11:20:00,3.0,11,Saturday
+28,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:20:00,11:22:00,2.0,11,Saturday
+29,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:06:00,11:11:00,5.0,11,Saturday
+29,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:11:00,11:16:00,5.0,11,Saturday
+29,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:16:00,11:20:00,4.0,11,Saturday
+29,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:20:00,11:24:00,4.0,11,Saturday
+29,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:24:00,11:29:00,5.0,11,Saturday
+29,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:29:00,11:32:00,3.0,11,Saturday
+29,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:32:00,11:34:00,2.0,11,Saturday
+30,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:18:00,11:23:00,5.0,11,Saturday
+30,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:23:00,11:28:00,5.0,11,Saturday
+30,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:28:00,11:32:00,4.0,11,Saturday
+30,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:32:00,11:36:00,4.0,11,Saturday
+30,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:36:00,11:41:00,5.0,11,Saturday
+30,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:41:00,11:44:00,3.0,11,Saturday
+30,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:44:00,11:46:00,2.0,11,Saturday
+31,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:30:00,11:35:00,5.0,11,Saturday
+31,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:35:00,11:40:00,5.0,11,Saturday
+31,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:40:00,11:44:00,4.0,11,Saturday
+31,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:44:00,11:48:00,4.0,11,Saturday
+31,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:48:00,11:53:00,5.0,11,Saturday
+31,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:53:00,11:56:00,3.0,11,Saturday
+31,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:56:00,11:58:00,2.0,11,Saturday
+32,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:42:00,11:47:00,5.0,11,Saturday
+32,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:47:00,11:52:00,5.0,11,Saturday
+32,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:52:00,11:56:00,4.0,11,Saturday
+32,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:56:00,12:00:00,4.0,11,Saturday
+32,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:00:00,12:05:00,5.0,12,Saturday
+32,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:05:00,12:08:00,3.0,12,Saturday
+32,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:08:00,12:10:00,2.0,12,Saturday
+33,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:54:00,11:59:00,5.0,11,Saturday
+33,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:59:00,12:04:00,5.0,11,Saturday
+33,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:04:00,12:08:00,4.0,12,Saturday
+33,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:08:00,12:12:00,4.0,12,Saturday
+33,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:12:00,12:17:00,5.0,12,Saturday
+33,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:17:00,12:20:00,3.0,12,Saturday
+33,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:20:00,12:22:00,2.0,12,Saturday
+34,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:06:00,12:11:00,5.0,12,Saturday
+34,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:11:00,12:16:00,5.0,12,Saturday
+34,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:16:00,12:20:00,4.0,12,Saturday
+34,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:20:00,12:24:00,4.0,12,Saturday
+34,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:24:00,12:29:00,5.0,12,Saturday
+34,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:29:00,12:32:00,3.0,12,Saturday
+34,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:32:00,12:34:00,2.0,12,Saturday
+35,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:18:00,12:23:00,5.0,12,Saturday
+35,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:23:00,12:28:00,5.0,12,Saturday
+35,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:28:00,12:32:00,4.0,12,Saturday
+35,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:32:00,12:36:00,4.0,12,Saturday
+35,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:36:00,12:41:00,5.0,12,Saturday
+35,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:41:00,12:44:00,3.0,12,Saturday
+35,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:44:00,12:46:00,2.0,12,Saturday
+36,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:30:00,12:35:00,5.0,12,Saturday
+36,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:35:00,12:40:00,5.0,12,Saturday
+36,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:40:00,12:44:00,4.0,12,Saturday
+36,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:44:00,12:48:00,4.0,12,Saturday
+36,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:48:00,12:53:00,5.0,12,Saturday
+36,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:53:00,12:56:00,3.0,12,Saturday
+36,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:56:00,12:58:00,2.0,12,Saturday
+37,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:42:00,12:47:00,5.0,12,Saturday
+37,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:47:00,12:52:00,5.0,12,Saturday
+37,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:52:00,12:56:00,4.0,12,Saturday
+37,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:56:00,13:00:00,4.0,12,Saturday
+37,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:00:00,13:05:00,5.0,13,Saturday
+37,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:05:00,13:08:00,3.0,13,Saturday
+37,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:08:00,13:10:00,2.0,13,Saturday
+38,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:54:00,12:59:00,5.0,12,Saturday
+38,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:59:00,13:04:00,5.0,12,Saturday
+38,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:04:00,13:08:00,4.0,13,Saturday
+38,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:08:00,13:12:00,4.0,13,Saturday
+38,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:12:00,13:17:00,5.0,13,Saturday
+38,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:17:00,13:20:00,3.0,13,Saturday
+38,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:20:00,13:22:00,2.0,13,Saturday
+39,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:06:00,13:11:00,5.0,13,Saturday
+39,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:11:00,13:16:00,5.0,13,Saturday
+39,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:16:00,13:20:00,4.0,13,Saturday
+39,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:20:00,13:24:00,4.0,13,Saturday
+39,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:24:00,13:29:00,5.0,13,Saturday
+39,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:29:00,13:32:00,3.0,13,Saturday
+39,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:32:00,13:34:00,2.0,13,Saturday
+40,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:18:00,13:23:00,5.0,13,Saturday
+40,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:23:00,13:28:00,5.0,13,Saturday
+40,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:28:00,13:32:00,4.0,13,Saturday
+40,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:32:00,13:36:00,4.0,13,Saturday
+40,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:36:00,13:41:00,5.0,13,Saturday
+40,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:41:00,13:44:00,3.0,13,Saturday
+40,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:44:00,13:46:00,2.0,13,Saturday
+41,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:30:00,13:35:00,5.0,13,Saturday
+41,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:35:00,13:40:00,5.0,13,Saturday
+41,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:40:00,13:44:00,4.0,13,Saturday
+41,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:44:00,13:48:00,4.0,13,Saturday
+41,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:48:00,13:53:00,5.0,13,Saturday
+41,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:53:00,13:56:00,3.0,13,Saturday
+41,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:56:00,13:58:00,2.0,13,Saturday
+42,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:42:00,13:47:00,5.0,13,Saturday
+42,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:47:00,13:52:00,5.0,13,Saturday
+42,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:52:00,13:56:00,4.0,13,Saturday
+42,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:56:00,14:00:00,4.0,13,Saturday
+42,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:00:00,14:05:00,5.0,14,Saturday
+42,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:05:00,14:08:00,3.0,14,Saturday
+42,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:08:00,14:10:00,2.0,14,Saturday
+43,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:54:00,13:59:00,5.0,13,Saturday
+43,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:59:00,14:04:00,5.0,13,Saturday
+43,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:04:00,14:08:00,4.0,14,Saturday
+43,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:08:00,14:12:00,4.0,14,Saturday
+43,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:12:00,14:17:00,5.0,14,Saturday
+43,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:17:00,14:20:00,3.0,14,Saturday
+43,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:20:00,14:22:00,2.0,14,Saturday
+44,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:06:00,14:11:00,5.0,14,Saturday
+44,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:11:00,14:16:00,5.0,14,Saturday
+44,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:16:00,14:20:00,4.0,14,Saturday
+44,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:20:00,14:24:00,4.0,14,Saturday
+44,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:24:00,14:29:00,5.0,14,Saturday
+44,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:29:00,14:32:00,3.0,14,Saturday
+44,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:32:00,14:34:00,2.0,14,Saturday
+45,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:18:00,14:23:00,5.0,14,Saturday
+45,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:23:00,14:28:00,5.0,14,Saturday
+45,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:28:00,14:32:00,4.0,14,Saturday
+45,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:32:00,14:36:00,4.0,14,Saturday
+45,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:36:00,14:41:00,5.0,14,Saturday
+45,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:41:00,14:44:00,3.0,14,Saturday
+45,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:44:00,14:46:00,2.0,14,Saturday
+46,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:30:00,14:35:00,5.0,14,Saturday
+46,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:35:00,14:40:00,5.0,14,Saturday
+46,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:40:00,14:44:00,4.0,14,Saturday
+46,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:44:00,14:48:00,4.0,14,Saturday
+46,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:48:00,14:53:00,5.0,14,Saturday
+46,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:53:00,14:56:00,3.0,14,Saturday
+46,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:56:00,14:58:00,2.0,14,Saturday
+47,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:42:00,14:47:00,5.0,14,Saturday
+47,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:47:00,14:52:00,5.0,14,Saturday
+47,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:52:00,14:56:00,4.0,14,Saturday
+47,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:56:00,15:00:00,4.0,14,Saturday
+47,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:00:00,15:05:00,5.0,15,Saturday
+47,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:05:00,15:08:00,3.0,15,Saturday
+47,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:08:00,15:10:00,2.0,15,Saturday
+48,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:54:00,14:59:00,5.0,14,Saturday
+48,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:59:00,15:04:00,5.0,14,Saturday
+48,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:04:00,15:08:00,4.0,15,Saturday
+48,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:08:00,15:12:00,4.0,15,Saturday
+48,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:12:00,15:17:00,5.0,15,Saturday
+48,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:17:00,15:20:00,3.0,15,Saturday
+48,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:20:00,15:22:00,2.0,15,Saturday
+49,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:06:00,15:11:00,5.0,15,Saturday
+49,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:11:00,15:16:00,5.0,15,Saturday
+49,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:16:00,15:20:00,4.0,15,Saturday
+49,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:20:00,15:24:00,4.0,15,Saturday
+49,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:24:00,15:29:00,5.0,15,Saturday
+49,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:29:00,15:32:00,3.0,15,Saturday
+49,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:32:00,15:34:00,2.0,15,Saturday
+50,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:18:00,15:23:00,5.0,15,Saturday
+50,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:23:00,15:28:00,5.0,15,Saturday
+50,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:28:00,15:32:00,4.0,15,Saturday
+50,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:32:00,15:36:00,4.0,15,Saturday
+50,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:36:00,15:41:00,5.0,15,Saturday
+50,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:41:00,15:44:00,3.0,15,Saturday
+50,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:44:00,15:46:00,2.0,15,Saturday
+51,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:30:00,15:35:00,5.0,15,Saturday
+51,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:35:00,15:40:00,5.0,15,Saturday
+51,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:40:00,15:44:00,4.0,15,Saturday
+51,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:44:00,15:48:00,4.0,15,Saturday
+51,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:48:00,15:53:00,5.0,15,Saturday
+51,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:53:00,15:56:00,3.0,15,Saturday
+51,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:56:00,15:58:00,2.0,15,Saturday
+52,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:42:00,15:47:00,5.0,15,Saturday
+52,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:47:00,15:52:00,5.0,15,Saturday
+52,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:52:00,15:56:00,4.0,15,Saturday
+52,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:56:00,16:00:00,4.0,15,Saturday
+52,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:00:00,16:05:00,5.0,16,Saturday
+52,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:05:00,16:08:00,3.0,16,Saturday
+52,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:08:00,16:10:00,2.0,16,Saturday
+53,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:54:00,15:59:00,5.0,15,Saturday
+53,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:59:00,16:04:00,5.0,15,Saturday
+53,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:04:00,16:08:00,4.0,16,Saturday
+53,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:08:00,16:12:00,4.0,16,Saturday
+53,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:12:00,16:17:00,5.0,16,Saturday
+53,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:17:00,16:20:00,3.0,16,Saturday
+53,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:20:00,16:22:00,2.0,16,Saturday
+54,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:06:00,16:11:00,5.0,16,Saturday
+54,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:11:00,16:16:00,5.0,16,Saturday
+54,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:16:00,16:20:00,4.0,16,Saturday
+54,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:20:00,16:24:00,4.0,16,Saturday
+54,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:24:00,16:29:00,5.0,16,Saturday
+54,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:29:00,16:32:00,3.0,16,Saturday
+54,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:32:00,16:34:00,2.0,16,Saturday
+55,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:18:00,16:23:00,5.0,16,Saturday
+55,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:23:00,16:28:00,5.0,16,Saturday
+55,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:28:00,16:32:00,4.0,16,Saturday
+55,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:32:00,16:36:00,4.0,16,Saturday
+55,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:36:00,16:41:00,5.0,16,Saturday
+55,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:41:00,16:44:00,3.0,16,Saturday
+55,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:44:00,16:46:00,2.0,16,Saturday
+56,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:30:00,16:35:00,5.0,16,Saturday
+56,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:35:00,16:40:00,5.0,16,Saturday
+56,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:40:00,16:44:00,4.0,16,Saturday
+56,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:44:00,16:48:00,4.0,16,Saturday
+56,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:48:00,16:53:00,5.0,16,Saturday
+56,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:53:00,16:56:00,3.0,16,Saturday
+56,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:56:00,16:58:00,2.0,16,Saturday
+57,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:42:00,16:47:00,5.0,16,Saturday
+57,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:47:00,16:52:00,5.0,16,Saturday
+57,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:52:00,16:56:00,4.0,16,Saturday
+57,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:56:00,17:00:00,4.0,16,Saturday
+57,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:00:00,17:05:00,5.0,17,Saturday
+57,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:05:00,17:08:00,3.0,17,Saturday
+57,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:08:00,17:10:00,2.0,17,Saturday
+58,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:54:00,16:59:00,5.0,16,Saturday
+58,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:59:00,17:04:00,5.0,16,Saturday
+58,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:04:00,17:08:00,4.0,17,Saturday
+58,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:08:00,17:12:00,4.0,17,Saturday
+58,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:12:00,17:17:00,5.0,17,Saturday
+58,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:17:00,17:20:00,3.0,17,Saturday
+58,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:20:00,17:22:00,2.0,17,Saturday
+59,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:06:00,17:11:00,5.0,17,Saturday
+59,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:11:00,17:16:00,5.0,17,Saturday
+59,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:16:00,17:20:00,4.0,17,Saturday
+59,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:20:00,17:24:00,4.0,17,Saturday
+59,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:24:00,17:29:00,5.0,17,Saturday
+59,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:29:00,17:32:00,3.0,17,Saturday
+59,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:32:00,17:34:00,2.0,17,Saturday
+60,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:18:00,17:23:00,5.0,17,Saturday
+60,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:23:00,17:28:00,5.0,17,Saturday
+60,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:28:00,17:32:00,4.0,17,Saturday
+60,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:32:00,17:36:00,4.0,17,Saturday
+60,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:36:00,17:41:00,5.0,17,Saturday
+60,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:41:00,17:44:00,3.0,17,Saturday
+60,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:44:00,17:46:00,2.0,17,Saturday
+61,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:30:00,17:35:00,5.0,17,Saturday
+61,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:35:00,17:40:00,5.0,17,Saturday
+61,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:40:00,17:44:00,4.0,17,Saturday
+61,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:44:00,17:48:00,4.0,17,Saturday
+61,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:48:00,17:53:00,5.0,17,Saturday
+61,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:53:00,17:56:00,3.0,17,Saturday
+61,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:56:00,17:58:00,2.0,17,Saturday
+62,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:42:00,17:47:00,5.0,17,Saturday
+62,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:47:00,17:52:00,5.0,17,Saturday
+62,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:52:00,17:56:00,4.0,17,Saturday
+62,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:56:00,18:00:00,4.0,17,Saturday
+62,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:00:00,18:05:00,5.0,18,Saturday
+62,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:05:00,18:08:00,3.0,18,Saturday
+62,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:08:00,18:10:00,2.0,18,Saturday
+63,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:54:00,17:59:00,5.0,17,Saturday
+63,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:59:00,18:04:00,5.0,17,Saturday
+63,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:04:00,18:08:00,4.0,18,Saturday
+63,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:08:00,18:12:00,4.0,18,Saturday
+63,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:12:00,18:17:00,5.0,18,Saturday
+63,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:17:00,18:20:00,3.0,18,Saturday
+63,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:20:00,18:22:00,2.0,18,Saturday
+64,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:06:00,18:11:00,5.0,18,Saturday
+64,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:11:00,18:16:00,5.0,18,Saturday
+64,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:16:00,18:20:00,4.0,18,Saturday
+64,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:20:00,18:24:00,4.0,18,Saturday
+64,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:24:00,18:29:00,5.0,18,Saturday
+64,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:29:00,18:32:00,3.0,18,Saturday
+64,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:32:00,18:34:00,2.0,18,Saturday
+65,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:18:00,18:23:00,5.0,18,Saturday
+65,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:23:00,18:28:00,5.0,18,Saturday
+65,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:28:00,18:32:00,4.0,18,Saturday
+65,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:32:00,18:36:00,4.0,18,Saturday
+65,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:36:00,18:41:00,5.0,18,Saturday
+65,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:41:00,18:44:00,3.0,18,Saturday
+65,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:44:00,18:46:00,2.0,18,Saturday
+66,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:30:00,18:35:00,5.0,18,Saturday
+66,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:35:00,18:40:00,5.0,18,Saturday
+66,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:40:00,18:44:00,4.0,18,Saturday
+66,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:44:00,18:48:00,4.0,18,Saturday
+66,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:48:00,18:53:00,5.0,18,Saturday
+66,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:53:00,18:56:00,3.0,18,Saturday
+66,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:56:00,18:58:00,2.0,18,Saturday
+67,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:42:00,18:47:00,5.0,18,Saturday
+67,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:47:00,18:52:00,5.0,18,Saturday
+67,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:52:00,18:56:00,4.0,18,Saturday
+67,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:56:00,19:00:00,4.0,18,Saturday
+67,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:00:00,19:05:00,5.0,19,Saturday
+67,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:05:00,19:08:00,3.0,19,Saturday
+67,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:08:00,19:10:00,2.0,19,Saturday
+68,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:54:00,18:59:00,5.0,18,Saturday
+68,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:59:00,19:04:00,5.0,18,Saturday
+68,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:04:00,19:08:00,4.0,19,Saturday
+68,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:08:00,19:12:00,4.0,19,Saturday
+68,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:12:00,19:17:00,5.0,19,Saturday
+68,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:17:00,19:20:00,3.0,19,Saturday
+68,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:20:00,19:22:00,2.0,19,Saturday
+69,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:06:00,19:11:00,5.0,19,Saturday
+69,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:11:00,19:16:00,5.0,19,Saturday
+69,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:16:00,19:20:00,4.0,19,Saturday
+69,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:20:00,19:24:00,4.0,19,Saturday
+69,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:24:00,19:29:00,5.0,19,Saturday
+69,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:29:00,19:32:00,3.0,19,Saturday
+69,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:32:00,19:34:00,2.0,19,Saturday
+70,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:18:00,19:23:00,5.0,19,Saturday
+70,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:23:00,19:28:00,5.0,19,Saturday
+70,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:28:00,19:32:00,4.0,19,Saturday
+70,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:32:00,19:36:00,4.0,19,Saturday
+70,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:36:00,19:41:00,5.0,19,Saturday
+70,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:41:00,19:44:00,3.0,19,Saturday
+70,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:44:00,19:46:00,2.0,19,Saturday
+71,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:30:00,19:35:00,5.0,19,Saturday
+71,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:35:00,19:40:00,5.0,19,Saturday
+71,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:40:00,19:44:00,4.0,19,Saturday
+71,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:44:00,19:48:00,4.0,19,Saturday
+71,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:48:00,19:53:00,5.0,19,Saturday
+71,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:53:00,19:56:00,3.0,19,Saturday
+71,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:56:00,19:58:00,2.0,19,Saturday
+72,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:42:00,19:47:00,5.0,19,Saturday
+72,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:47:00,19:52:00,5.0,19,Saturday
+72,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:52:00,19:56:00,4.0,19,Saturday
+72,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:56:00,20:00:00,4.0,19,Saturday
+72,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:00:00,20:05:00,5.0,20,Saturday
+72,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:05:00,20:08:00,3.0,20,Saturday
+72,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:08:00,20:10:00,2.0,20,Saturday
+73,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:54:00,19:59:00,5.0,19,Saturday
+73,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:59:00,20:04:00,5.0,19,Saturday
+73,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:04:00,20:08:00,4.0,20,Saturday
+73,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:08:00,20:12:00,4.0,20,Saturday
+73,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:12:00,20:17:00,5.0,20,Saturday
+73,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:17:00,20:20:00,3.0,20,Saturday
+73,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:20:00,20:22:00,2.0,20,Saturday
+74,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:06:00,20:11:00,5.0,20,Saturday
+74,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:11:00,20:16:00,5.0,20,Saturday
+74,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:16:00,20:20:00,4.0,20,Saturday
+74,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:20:00,20:24:00,4.0,20,Saturday
+74,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:24:00,20:29:00,5.0,20,Saturday
+74,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:29:00,20:32:00,3.0,20,Saturday
+74,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:32:00,20:34:00,2.0,20,Saturday
+75,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:18:00,20:23:00,5.0,20,Saturday
+75,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:23:00,20:28:00,5.0,20,Saturday
+75,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:28:00,20:32:00,4.0,20,Saturday
+75,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:32:00,20:36:00,4.0,20,Saturday
+75,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:36:00,20:41:00,5.0,20,Saturday
+75,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:41:00,20:44:00,3.0,20,Saturday
+75,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:44:00,20:46:00,2.0,20,Saturday
+76,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:30:00,20:35:00,5.0,20,Saturday
+76,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:35:00,20:40:00,5.0,20,Saturday
+76,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:40:00,20:44:00,4.0,20,Saturday
+76,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:44:00,20:48:00,4.0,20,Saturday
+76,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:48:00,20:53:00,5.0,20,Saturday
+76,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:53:00,20:56:00,3.0,20,Saturday
+76,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:56:00,20:58:00,2.0,20,Saturday
+77,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:42:00,20:47:00,5.0,20,Saturday
+77,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:47:00,20:52:00,5.0,20,Saturday
+77,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:52:00,20:56:00,4.0,20,Saturday
+77,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:56:00,21:00:00,4.0,20,Saturday
+77,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:00:00,21:05:00,5.0,21,Saturday
+77,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:05:00,21:08:00,3.0,21,Saturday
+77,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:08:00,21:10:00,2.0,21,Saturday
+78,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:54:00,20:59:00,5.0,20,Saturday
+78,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:59:00,21:04:00,5.0,20,Saturday
+78,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:04:00,21:08:00,4.0,21,Saturday
+78,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:08:00,21:12:00,4.0,21,Saturday
+78,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:12:00,21:17:00,5.0,21,Saturday
+78,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:17:00,21:20:00,3.0,21,Saturday
+78,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:20:00,21:22:00,2.0,21,Saturday
+79,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:06:00,21:11:00,5.0,21,Saturday
+79,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:11:00,21:16:00,5.0,21,Saturday
+79,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:16:00,21:20:00,4.0,21,Saturday
+79,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:20:00,21:24:00,4.0,21,Saturday
+79,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:24:00,21:29:00,5.0,21,Saturday
+79,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:29:00,21:32:00,3.0,21,Saturday
+79,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:32:00,21:34:00,2.0,21,Saturday
+80,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:18:00,21:23:00,5.0,21,Saturday
+80,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:23:00,21:28:00,5.0,21,Saturday
+80,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:28:00,21:32:00,4.0,21,Saturday
+80,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:32:00,21:36:00,4.0,21,Saturday
+80,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:36:00,21:41:00,5.0,21,Saturday
+80,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:41:00,21:44:00,3.0,21,Saturday
+80,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:44:00,21:46:00,2.0,21,Saturday
+81,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:30:00,21:35:00,5.0,21,Saturday
+81,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:35:00,21:40:00,5.0,21,Saturday
+81,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:40:00,21:44:00,4.0,21,Saturday
+81,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:44:00,21:48:00,4.0,21,Saturday
+81,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:48:00,21:53:00,5.0,21,Saturday
+81,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:53:00,21:56:00,3.0,21,Saturday
+81,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:56:00,21:58:00,2.0,21,Saturday
+82,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:42:00,21:47:00,5.0,21,Saturday
+82,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:47:00,21:52:00,5.0,21,Saturday
+82,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:52:00,21:56:00,4.0,21,Saturday
+82,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:56:00,22:00:00,4.0,21,Saturday
+82,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:00:00,22:05:00,5.0,22,Saturday
+82,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:05:00,22:08:00,3.0,22,Saturday
+82,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:08:00,22:10:00,2.0,22,Saturday
+83,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:54:00,21:59:00,5.0,21,Saturday
+83,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:59:00,22:04:00,5.0,21,Saturday
+83,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:04:00,22:08:00,4.0,22,Saturday
+83,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:08:00,22:12:00,4.0,22,Saturday
+83,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:12:00,22:17:00,5.0,22,Saturday
+83,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:17:00,22:20:00,3.0,22,Saturday
+83,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:20:00,22:22:00,2.0,22,Saturday
+84,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:06:00,22:11:00,5.0,22,Saturday
+84,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:11:00,22:16:00,5.0,22,Saturday
+84,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:16:00,22:20:00,4.0,22,Saturday
+84,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:20:00,22:24:00,4.0,22,Saturday
+84,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:24:00,22:29:00,5.0,22,Saturday
+84,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:29:00,22:32:00,3.0,22,Saturday
+84,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:32:00,22:34:00,2.0,22,Saturday
+85,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:18:00,22:23:00,5.0,22,Saturday
+85,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:23:00,22:28:00,5.0,22,Saturday
+85,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:28:00,22:32:00,4.0,22,Saturday
+85,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:32:00,22:36:00,4.0,22,Saturday
+85,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:36:00,22:41:00,5.0,22,Saturday
+85,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:41:00,22:44:00,3.0,22,Saturday
+85,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:44:00,22:46:00,2.0,22,Saturday
+86,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:30:00,22:35:00,5.0,22,Saturday
+86,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:35:00,22:40:00,5.0,22,Saturday
+86,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:40:00,22:44:00,4.0,22,Saturday
+86,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:44:00,22:48:00,4.0,22,Saturday
+86,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:48:00,22:53:00,5.0,22,Saturday
+86,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:53:00,22:56:00,3.0,22,Saturday
+86,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:56:00,22:58:00,2.0,22,Saturday
+87,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:42:00,22:47:00,5.0,22,Saturday
+87,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:47:00,22:52:00,5.0,22,Saturday
+87,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:52:00,22:56:00,4.0,22,Saturday
+87,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:56:00,23:00:00,4.0,22,Saturday
+87,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:00:00,23:05:00,5.0,23,Saturday
+87,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:05:00,23:08:00,3.0,23,Saturday
+87,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:08:00,23:10:00,2.0,23,Saturday
+88,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:54:00,22:59:00,5.0,22,Saturday
+88,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:59:00,23:04:00,5.0,22,Saturday
+88,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:04:00,23:08:00,4.0,23,Saturday
+88,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:08:00,23:12:00,4.0,23,Saturday
+88,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:12:00,23:17:00,5.0,23,Saturday
+88,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:17:00,23:20:00,3.0,23,Saturday
+88,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:20:00,23:22:00,2.0,23,Saturday
+89,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:06:00,23:11:00,5.0,23,Saturday
+89,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:11:00,23:16:00,5.0,23,Saturday
+89,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:16:00,23:20:00,4.0,23,Saturday
+89,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:20:00,23:24:00,4.0,23,Saturday
+89,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:24:00,23:29:00,5.0,23,Saturday
+89,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:29:00,23:32:00,3.0,23,Saturday
+89,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:32:00,23:34:00,2.0,23,Saturday
+90,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:18:00,23:23:00,5.0,23,Saturday
+90,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:23:00,23:28:00,5.0,23,Saturday
+90,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:28:00,23:32:00,4.0,23,Saturday
+90,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:32:00,23:36:00,4.0,23,Saturday
+90,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:36:00,23:41:00,5.0,23,Saturday
+90,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:41:00,23:44:00,3.0,23,Saturday
+90,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:44:00,23:46:00,2.0,23,Saturday
+91,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:30:00,23:35:00,5.0,23,Saturday
+91,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:35:00,23:40:00,5.0,23,Saturday
+91,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:40:00,23:44:00,4.0,23,Saturday
+91,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:44:00,23:48:00,4.0,23,Saturday
+91,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:48:00,23:53:00,5.0,23,Saturday
+91,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:53:00,23:56:00,3.0,23,Saturday
+91,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:56:00,23:58:00,2.0,23,Saturday
+92,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:42:00,23:47:00,5.0,23,Saturday
+92,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:47:00,23:52:00,5.0,23,Saturday
+92,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:52:00,23:56:00,4.0,23,Saturday
+92,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:56:00,00:00:00,3.9833333333333334,23,Saturday
+92,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,00:00:00,00:05:00,5.0,0,Sunday
+92,ARL,go,A06,Makkasan,A07,Ratchaprarop,00:05:00,00:08:00,3.0,0,Sunday
+92,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,00:08:00,00:10:00,2.0,0,Sunday
+93,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:54:00,23:59:00,5.0,23,Saturday
+93,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:59:00,00:04:00,4.983333333333333,23,Saturday
+93,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,00:04:00,00:08:00,4.0,0,Sunday
+93,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,00:08:00,00:12:00,4.0,0,Sunday
+93,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,00:12:00,00:17:00,5.0,0,Sunday
+93,ARL,go,A06,Makkasan,A07,Ratchaprarop,00:17:00,00:20:00,3.0,0,Sunday
+93,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,00:20:00,00:22:00,2.0,0,Sunday
+94,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,00:00:00,00:05:00,5.0,0,Sunday
+94,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,00:05:00,00:10:00,5.0,0,Sunday
+94,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,00:10:00,00:14:00,4.0,0,Sunday
+94,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,00:14:00,00:18:00,4.0,0,Sunday
+94,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,00:18:00,00:23:00,5.0,0,Sunday
+94,ARL,go,A06,Makkasan,A07,Ratchaprarop,00:23:00,00:26:00,3.0,0,Sunday
+94,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,00:26:00,00:28:00,2.0,0,Sunday
+1,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,05:30:00,05:35:00,5.0,5,Sunday
+1,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,05:35:00,05:40:00,5.0,5,Sunday
+1,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,05:40:00,05:44:00,4.0,5,Sunday
+1,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,05:44:00,05:48:00,4.0,5,Sunday
+1,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,05:48:00,05:53:00,5.0,5,Sunday
+1,ARL,go,A06,Makkasan,A07,Ratchaprarop,05:53:00,05:56:00,3.0,5,Sunday
+1,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,05:56:00,05:58:00,2.0,5,Sunday
+2,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,05:42:00,05:47:00,5.0,5,Sunday
+2,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,05:47:00,05:52:00,5.0,5,Sunday
+2,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,05:52:00,05:56:00,4.0,5,Sunday
+2,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,05:56:00,06:00:00,4.0,5,Sunday
+2,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:00:00,06:05:00,5.0,6,Sunday
+2,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:05:00,06:08:00,3.0,6,Sunday
+2,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:08:00,06:10:00,2.0,6,Sunday
+3,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,05:54:00,05:59:00,5.0,5,Sunday
+3,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,05:59:00,06:04:00,5.0,5,Sunday
+3,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:04:00,06:08:00,4.0,6,Sunday
+3,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:08:00,06:12:00,4.0,6,Sunday
+3,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:12:00,06:17:00,5.0,6,Sunday
+3,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:17:00,06:20:00,3.0,6,Sunday
+3,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:20:00,06:22:00,2.0,6,Sunday
+4,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:06:00,06:11:00,5.0,6,Sunday
+4,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:11:00,06:16:00,5.0,6,Sunday
+4,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:16:00,06:20:00,4.0,6,Sunday
+4,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:20:00,06:24:00,4.0,6,Sunday
+4,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:24:00,06:29:00,5.0,6,Sunday
+4,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:29:00,06:32:00,3.0,6,Sunday
+4,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:32:00,06:34:00,2.0,6,Sunday
+5,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:18:00,06:23:00,5.0,6,Sunday
+5,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:23:00,06:28:00,5.0,6,Sunday
+5,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:28:00,06:32:00,4.0,6,Sunday
+5,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:32:00,06:36:00,4.0,6,Sunday
+5,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:36:00,06:41:00,5.0,6,Sunday
+5,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:41:00,06:44:00,3.0,6,Sunday
+5,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:44:00,06:46:00,2.0,6,Sunday
+6,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:30:00,06:35:00,5.0,6,Sunday
+6,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:35:00,06:40:00,5.0,6,Sunday
+6,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:40:00,06:44:00,4.0,6,Sunday
+6,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:44:00,06:48:00,4.0,6,Sunday
+6,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,06:48:00,06:53:00,5.0,6,Sunday
+6,ARL,go,A06,Makkasan,A07,Ratchaprarop,06:53:00,06:56:00,3.0,6,Sunday
+6,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,06:56:00,06:58:00,2.0,6,Sunday
+7,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:42:00,06:47:00,5.0,6,Sunday
+7,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:47:00,06:52:00,5.0,6,Sunday
+7,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,06:52:00,06:56:00,4.0,6,Sunday
+7,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,06:56:00,07:00:00,4.0,6,Sunday
+7,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:00:00,07:05:00,5.0,7,Sunday
+7,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:05:00,07:08:00,3.0,7,Sunday
+7,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:08:00,07:10:00,2.0,7,Sunday
+8,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,06:54:00,06:59:00,5.0,6,Sunday
+8,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,06:59:00,07:04:00,5.0,6,Sunday
+8,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:04:00,07:08:00,4.0,7,Sunday
+8,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:08:00,07:12:00,4.0,7,Sunday
+8,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:12:00,07:17:00,5.0,7,Sunday
+8,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:17:00,07:20:00,3.0,7,Sunday
+8,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:20:00,07:22:00,2.0,7,Sunday
+9,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:06:00,07:11:00,5.0,7,Sunday
+9,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:11:00,07:16:00,5.0,7,Sunday
+9,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:16:00,07:20:00,4.0,7,Sunday
+9,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:20:00,07:24:00,4.0,7,Sunday
+9,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:24:00,07:29:00,5.0,7,Sunday
+9,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:29:00,07:32:00,3.0,7,Sunday
+9,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:32:00,07:34:00,2.0,7,Sunday
+10,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:18:00,07:23:00,5.0,7,Sunday
+10,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:23:00,07:28:00,5.0,7,Sunday
+10,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:28:00,07:32:00,4.0,7,Sunday
+10,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:32:00,07:36:00,4.0,7,Sunday
+10,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:36:00,07:41:00,5.0,7,Sunday
+10,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:41:00,07:44:00,3.0,7,Sunday
+10,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:44:00,07:46:00,2.0,7,Sunday
+11,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:30:00,07:35:00,5.0,7,Sunday
+11,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:35:00,07:40:00,5.0,7,Sunday
+11,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:40:00,07:44:00,4.0,7,Sunday
+11,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:44:00,07:48:00,4.0,7,Sunday
+11,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,07:48:00,07:53:00,5.0,7,Sunday
+11,ARL,go,A06,Makkasan,A07,Ratchaprarop,07:53:00,07:56:00,3.0,7,Sunday
+11,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,07:56:00,07:58:00,2.0,7,Sunday
+12,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:42:00,07:47:00,5.0,7,Sunday
+12,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:47:00,07:52:00,5.0,7,Sunday
+12,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,07:52:00,07:56:00,4.0,7,Sunday
+12,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,07:56:00,08:00:00,4.0,7,Sunday
+12,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:00:00,08:05:00,5.0,8,Sunday
+12,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:05:00,08:08:00,3.0,8,Sunday
+12,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:08:00,08:10:00,2.0,8,Sunday
+13,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,07:54:00,07:59:00,5.0,7,Sunday
+13,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,07:59:00,08:04:00,5.0,7,Sunday
+13,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:04:00,08:08:00,4.0,8,Sunday
+13,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:08:00,08:12:00,4.0,8,Sunday
+13,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:12:00,08:17:00,5.0,8,Sunday
+13,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:17:00,08:20:00,3.0,8,Sunday
+13,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:20:00,08:22:00,2.0,8,Sunday
+14,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:06:00,08:11:00,5.0,8,Sunday
+14,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:11:00,08:16:00,5.0,8,Sunday
+14,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:16:00,08:20:00,4.0,8,Sunday
+14,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:20:00,08:24:00,4.0,8,Sunday
+14,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:24:00,08:29:00,5.0,8,Sunday
+14,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:29:00,08:32:00,3.0,8,Sunday
+14,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:32:00,08:34:00,2.0,8,Sunday
+15,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:18:00,08:23:00,5.0,8,Sunday
+15,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:23:00,08:28:00,5.0,8,Sunday
+15,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:28:00,08:32:00,4.0,8,Sunday
+15,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:32:00,08:36:00,4.0,8,Sunday
+15,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:36:00,08:41:00,5.0,8,Sunday
+15,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:41:00,08:44:00,3.0,8,Sunday
+15,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:44:00,08:46:00,2.0,8,Sunday
+16,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:30:00,08:35:00,5.0,8,Sunday
+16,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:35:00,08:40:00,5.0,8,Sunday
+16,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:40:00,08:44:00,4.0,8,Sunday
+16,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:44:00,08:48:00,4.0,8,Sunday
+16,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,08:48:00,08:53:00,5.0,8,Sunday
+16,ARL,go,A06,Makkasan,A07,Ratchaprarop,08:53:00,08:56:00,3.0,8,Sunday
+16,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,08:56:00,08:58:00,2.0,8,Sunday
+17,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:42:00,08:47:00,5.0,8,Sunday
+17,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:47:00,08:52:00,5.0,8,Sunday
+17,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,08:52:00,08:56:00,4.0,8,Sunday
+17,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,08:56:00,09:00:00,4.0,8,Sunday
+17,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:00:00,09:05:00,5.0,9,Sunday
+17,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:05:00,09:08:00,3.0,9,Sunday
+17,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:08:00,09:10:00,2.0,9,Sunday
+18,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,08:54:00,08:59:00,5.0,8,Sunday
+18,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,08:59:00,09:04:00,5.0,8,Sunday
+18,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:04:00,09:08:00,4.0,9,Sunday
+18,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:08:00,09:12:00,4.0,9,Sunday
+18,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:12:00,09:17:00,5.0,9,Sunday
+18,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:17:00,09:20:00,3.0,9,Sunday
+18,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:20:00,09:22:00,2.0,9,Sunday
+19,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:06:00,09:11:00,5.0,9,Sunday
+19,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:11:00,09:16:00,5.0,9,Sunday
+19,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:16:00,09:20:00,4.0,9,Sunday
+19,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:20:00,09:24:00,4.0,9,Sunday
+19,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:24:00,09:29:00,5.0,9,Sunday
+19,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:29:00,09:32:00,3.0,9,Sunday
+19,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:32:00,09:34:00,2.0,9,Sunday
+20,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:18:00,09:23:00,5.0,9,Sunday
+20,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:23:00,09:28:00,5.0,9,Sunday
+20,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:28:00,09:32:00,4.0,9,Sunday
+20,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:32:00,09:36:00,4.0,9,Sunday
+20,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:36:00,09:41:00,5.0,9,Sunday
+20,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:41:00,09:44:00,3.0,9,Sunday
+20,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:44:00,09:46:00,2.0,9,Sunday
+21,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:30:00,09:35:00,5.0,9,Sunday
+21,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:35:00,09:40:00,5.0,9,Sunday
+21,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:40:00,09:44:00,4.0,9,Sunday
+21,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:44:00,09:48:00,4.0,9,Sunday
+21,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,09:48:00,09:53:00,5.0,9,Sunday
+21,ARL,go,A06,Makkasan,A07,Ratchaprarop,09:53:00,09:56:00,3.0,9,Sunday
+21,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,09:56:00,09:58:00,2.0,9,Sunday
+22,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:42:00,09:47:00,5.0,9,Sunday
+22,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:47:00,09:52:00,5.0,9,Sunday
+22,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,09:52:00,09:56:00,4.0,9,Sunday
+22,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,09:56:00,10:00:00,4.0,9,Sunday
+22,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:00:00,10:05:00,5.0,10,Sunday
+22,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:05:00,10:08:00,3.0,10,Sunday
+22,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:08:00,10:10:00,2.0,10,Sunday
+23,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,09:54:00,09:59:00,5.0,9,Sunday
+23,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,09:59:00,10:04:00,5.0,9,Sunday
+23,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:04:00,10:08:00,4.0,10,Sunday
+23,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:08:00,10:12:00,4.0,10,Sunday
+23,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:12:00,10:17:00,5.0,10,Sunday
+23,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:17:00,10:20:00,3.0,10,Sunday
+23,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:20:00,10:22:00,2.0,10,Sunday
+24,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:06:00,10:11:00,5.0,10,Sunday
+24,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:11:00,10:16:00,5.0,10,Sunday
+24,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:16:00,10:20:00,4.0,10,Sunday
+24,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:20:00,10:24:00,4.0,10,Sunday
+24,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:24:00,10:29:00,5.0,10,Sunday
+24,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:29:00,10:32:00,3.0,10,Sunday
+24,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:32:00,10:34:00,2.0,10,Sunday
+25,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:18:00,10:23:00,5.0,10,Sunday
+25,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:23:00,10:28:00,5.0,10,Sunday
+25,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:28:00,10:32:00,4.0,10,Sunday
+25,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:32:00,10:36:00,4.0,10,Sunday
+25,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:36:00,10:41:00,5.0,10,Sunday
+25,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:41:00,10:44:00,3.0,10,Sunday
+25,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:44:00,10:46:00,2.0,10,Sunday
+26,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:30:00,10:35:00,5.0,10,Sunday
+26,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:35:00,10:40:00,5.0,10,Sunday
+26,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:40:00,10:44:00,4.0,10,Sunday
+26,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:44:00,10:48:00,4.0,10,Sunday
+26,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,10:48:00,10:53:00,5.0,10,Sunday
+26,ARL,go,A06,Makkasan,A07,Ratchaprarop,10:53:00,10:56:00,3.0,10,Sunday
+26,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,10:56:00,10:58:00,2.0,10,Sunday
+27,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:42:00,10:47:00,5.0,10,Sunday
+27,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:47:00,10:52:00,5.0,10,Sunday
+27,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,10:52:00,10:56:00,4.0,10,Sunday
+27,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,10:56:00,11:00:00,4.0,10,Sunday
+27,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:00:00,11:05:00,5.0,11,Sunday
+27,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:05:00,11:08:00,3.0,11,Sunday
+27,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:08:00,11:10:00,2.0,11,Sunday
+28,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,10:54:00,10:59:00,5.0,10,Sunday
+28,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,10:59:00,11:04:00,5.0,10,Sunday
+28,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:04:00,11:08:00,4.0,11,Sunday
+28,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:08:00,11:12:00,4.0,11,Sunday
+28,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:12:00,11:17:00,5.0,11,Sunday
+28,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:17:00,11:20:00,3.0,11,Sunday
+28,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:20:00,11:22:00,2.0,11,Sunday
+29,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:06:00,11:11:00,5.0,11,Sunday
+29,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:11:00,11:16:00,5.0,11,Sunday
+29,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:16:00,11:20:00,4.0,11,Sunday
+29,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:20:00,11:24:00,4.0,11,Sunday
+29,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:24:00,11:29:00,5.0,11,Sunday
+29,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:29:00,11:32:00,3.0,11,Sunday
+29,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:32:00,11:34:00,2.0,11,Sunday
+30,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:18:00,11:23:00,5.0,11,Sunday
+30,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:23:00,11:28:00,5.0,11,Sunday
+30,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:28:00,11:32:00,4.0,11,Sunday
+30,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:32:00,11:36:00,4.0,11,Sunday
+30,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:36:00,11:41:00,5.0,11,Sunday
+30,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:41:00,11:44:00,3.0,11,Sunday
+30,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:44:00,11:46:00,2.0,11,Sunday
+31,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:30:00,11:35:00,5.0,11,Sunday
+31,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:35:00,11:40:00,5.0,11,Sunday
+31,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:40:00,11:44:00,4.0,11,Sunday
+31,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:44:00,11:48:00,4.0,11,Sunday
+31,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,11:48:00,11:53:00,5.0,11,Sunday
+31,ARL,go,A06,Makkasan,A07,Ratchaprarop,11:53:00,11:56:00,3.0,11,Sunday
+31,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,11:56:00,11:58:00,2.0,11,Sunday
+32,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:42:00,11:47:00,5.0,11,Sunday
+32,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:47:00,11:52:00,5.0,11,Sunday
+32,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,11:52:00,11:56:00,4.0,11,Sunday
+32,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,11:56:00,12:00:00,4.0,11,Sunday
+32,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:00:00,12:05:00,5.0,12,Sunday
+32,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:05:00,12:08:00,3.0,12,Sunday
+32,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:08:00,12:10:00,2.0,12,Sunday
+33,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,11:54:00,11:59:00,5.0,11,Sunday
+33,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,11:59:00,12:04:00,5.0,11,Sunday
+33,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:04:00,12:08:00,4.0,12,Sunday
+33,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:08:00,12:12:00,4.0,12,Sunday
+33,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:12:00,12:17:00,5.0,12,Sunday
+33,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:17:00,12:20:00,3.0,12,Sunday
+33,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:20:00,12:22:00,2.0,12,Sunday
+34,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:06:00,12:11:00,5.0,12,Sunday
+34,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:11:00,12:16:00,5.0,12,Sunday
+34,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:16:00,12:20:00,4.0,12,Sunday
+34,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:20:00,12:24:00,4.0,12,Sunday
+34,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:24:00,12:29:00,5.0,12,Sunday
+34,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:29:00,12:32:00,3.0,12,Sunday
+34,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:32:00,12:34:00,2.0,12,Sunday
+35,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:18:00,12:23:00,5.0,12,Sunday
+35,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:23:00,12:28:00,5.0,12,Sunday
+35,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:28:00,12:32:00,4.0,12,Sunday
+35,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:32:00,12:36:00,4.0,12,Sunday
+35,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:36:00,12:41:00,5.0,12,Sunday
+35,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:41:00,12:44:00,3.0,12,Sunday
+35,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:44:00,12:46:00,2.0,12,Sunday
+36,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:30:00,12:35:00,5.0,12,Sunday
+36,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:35:00,12:40:00,5.0,12,Sunday
+36,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:40:00,12:44:00,4.0,12,Sunday
+36,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:44:00,12:48:00,4.0,12,Sunday
+36,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,12:48:00,12:53:00,5.0,12,Sunday
+36,ARL,go,A06,Makkasan,A07,Ratchaprarop,12:53:00,12:56:00,3.0,12,Sunday
+36,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,12:56:00,12:58:00,2.0,12,Sunday
+37,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:42:00,12:47:00,5.0,12,Sunday
+37,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:47:00,12:52:00,5.0,12,Sunday
+37,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,12:52:00,12:56:00,4.0,12,Sunday
+37,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,12:56:00,13:00:00,4.0,12,Sunday
+37,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:00:00,13:05:00,5.0,13,Sunday
+37,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:05:00,13:08:00,3.0,13,Sunday
+37,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:08:00,13:10:00,2.0,13,Sunday
+38,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,12:54:00,12:59:00,5.0,12,Sunday
+38,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,12:59:00,13:04:00,5.0,12,Sunday
+38,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:04:00,13:08:00,4.0,13,Sunday
+38,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:08:00,13:12:00,4.0,13,Sunday
+38,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:12:00,13:17:00,5.0,13,Sunday
+38,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:17:00,13:20:00,3.0,13,Sunday
+38,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:20:00,13:22:00,2.0,13,Sunday
+39,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:06:00,13:11:00,5.0,13,Sunday
+39,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:11:00,13:16:00,5.0,13,Sunday
+39,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:16:00,13:20:00,4.0,13,Sunday
+39,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:20:00,13:24:00,4.0,13,Sunday
+39,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:24:00,13:29:00,5.0,13,Sunday
+39,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:29:00,13:32:00,3.0,13,Sunday
+39,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:32:00,13:34:00,2.0,13,Sunday
+40,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:18:00,13:23:00,5.0,13,Sunday
+40,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:23:00,13:28:00,5.0,13,Sunday
+40,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:28:00,13:32:00,4.0,13,Sunday
+40,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:32:00,13:36:00,4.0,13,Sunday
+40,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:36:00,13:41:00,5.0,13,Sunday
+40,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:41:00,13:44:00,3.0,13,Sunday
+40,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:44:00,13:46:00,2.0,13,Sunday
+41,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:30:00,13:35:00,5.0,13,Sunday
+41,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:35:00,13:40:00,5.0,13,Sunday
+41,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:40:00,13:44:00,4.0,13,Sunday
+41,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:44:00,13:48:00,4.0,13,Sunday
+41,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,13:48:00,13:53:00,5.0,13,Sunday
+41,ARL,go,A06,Makkasan,A07,Ratchaprarop,13:53:00,13:56:00,3.0,13,Sunday
+41,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,13:56:00,13:58:00,2.0,13,Sunday
+42,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:42:00,13:47:00,5.0,13,Sunday
+42,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:47:00,13:52:00,5.0,13,Sunday
+42,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,13:52:00,13:56:00,4.0,13,Sunday
+42,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,13:56:00,14:00:00,4.0,13,Sunday
+42,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:00:00,14:05:00,5.0,14,Sunday
+42,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:05:00,14:08:00,3.0,14,Sunday
+42,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:08:00,14:10:00,2.0,14,Sunday
+43,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,13:54:00,13:59:00,5.0,13,Sunday
+43,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,13:59:00,14:04:00,5.0,13,Sunday
+43,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:04:00,14:08:00,4.0,14,Sunday
+43,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:08:00,14:12:00,4.0,14,Sunday
+43,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:12:00,14:17:00,5.0,14,Sunday
+43,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:17:00,14:20:00,3.0,14,Sunday
+43,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:20:00,14:22:00,2.0,14,Sunday
+44,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:06:00,14:11:00,5.0,14,Sunday
+44,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:11:00,14:16:00,5.0,14,Sunday
+44,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:16:00,14:20:00,4.0,14,Sunday
+44,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:20:00,14:24:00,4.0,14,Sunday
+44,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:24:00,14:29:00,5.0,14,Sunday
+44,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:29:00,14:32:00,3.0,14,Sunday
+44,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:32:00,14:34:00,2.0,14,Sunday
+45,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:18:00,14:23:00,5.0,14,Sunday
+45,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:23:00,14:28:00,5.0,14,Sunday
+45,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:28:00,14:32:00,4.0,14,Sunday
+45,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:32:00,14:36:00,4.0,14,Sunday
+45,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:36:00,14:41:00,5.0,14,Sunday
+45,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:41:00,14:44:00,3.0,14,Sunday
+45,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:44:00,14:46:00,2.0,14,Sunday
+46,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:30:00,14:35:00,5.0,14,Sunday
+46,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:35:00,14:40:00,5.0,14,Sunday
+46,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:40:00,14:44:00,4.0,14,Sunday
+46,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:44:00,14:48:00,4.0,14,Sunday
+46,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,14:48:00,14:53:00,5.0,14,Sunday
+46,ARL,go,A06,Makkasan,A07,Ratchaprarop,14:53:00,14:56:00,3.0,14,Sunday
+46,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,14:56:00,14:58:00,2.0,14,Sunday
+47,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:42:00,14:47:00,5.0,14,Sunday
+47,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:47:00,14:52:00,5.0,14,Sunday
+47,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,14:52:00,14:56:00,4.0,14,Sunday
+47,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,14:56:00,15:00:00,4.0,14,Sunday
+47,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:00:00,15:05:00,5.0,15,Sunday
+47,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:05:00,15:08:00,3.0,15,Sunday
+47,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:08:00,15:10:00,2.0,15,Sunday
+48,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,14:54:00,14:59:00,5.0,14,Sunday
+48,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,14:59:00,15:04:00,5.0,14,Sunday
+48,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:04:00,15:08:00,4.0,15,Sunday
+48,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:08:00,15:12:00,4.0,15,Sunday
+48,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:12:00,15:17:00,5.0,15,Sunday
+48,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:17:00,15:20:00,3.0,15,Sunday
+48,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:20:00,15:22:00,2.0,15,Sunday
+49,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:06:00,15:11:00,5.0,15,Sunday
+49,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:11:00,15:16:00,5.0,15,Sunday
+49,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:16:00,15:20:00,4.0,15,Sunday
+49,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:20:00,15:24:00,4.0,15,Sunday
+49,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:24:00,15:29:00,5.0,15,Sunday
+49,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:29:00,15:32:00,3.0,15,Sunday
+49,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:32:00,15:34:00,2.0,15,Sunday
+50,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:18:00,15:23:00,5.0,15,Sunday
+50,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:23:00,15:28:00,5.0,15,Sunday
+50,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:28:00,15:32:00,4.0,15,Sunday
+50,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:32:00,15:36:00,4.0,15,Sunday
+50,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:36:00,15:41:00,5.0,15,Sunday
+50,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:41:00,15:44:00,3.0,15,Sunday
+50,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:44:00,15:46:00,2.0,15,Sunday
+51,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:30:00,15:35:00,5.0,15,Sunday
+51,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:35:00,15:40:00,5.0,15,Sunday
+51,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:40:00,15:44:00,4.0,15,Sunday
+51,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:44:00,15:48:00,4.0,15,Sunday
+51,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,15:48:00,15:53:00,5.0,15,Sunday
+51,ARL,go,A06,Makkasan,A07,Ratchaprarop,15:53:00,15:56:00,3.0,15,Sunday
+51,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,15:56:00,15:58:00,2.0,15,Sunday
+52,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:42:00,15:47:00,5.0,15,Sunday
+52,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:47:00,15:52:00,5.0,15,Sunday
+52,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,15:52:00,15:56:00,4.0,15,Sunday
+52,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,15:56:00,16:00:00,4.0,15,Sunday
+52,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:00:00,16:05:00,5.0,16,Sunday
+52,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:05:00,16:08:00,3.0,16,Sunday
+52,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:08:00,16:10:00,2.0,16,Sunday
+53,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,15:54:00,15:59:00,5.0,15,Sunday
+53,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,15:59:00,16:04:00,5.0,15,Sunday
+53,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:04:00,16:08:00,4.0,16,Sunday
+53,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:08:00,16:12:00,4.0,16,Sunday
+53,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:12:00,16:17:00,5.0,16,Sunday
+53,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:17:00,16:20:00,3.0,16,Sunday
+53,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:20:00,16:22:00,2.0,16,Sunday
+54,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:06:00,16:11:00,5.0,16,Sunday
+54,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:11:00,16:16:00,5.0,16,Sunday
+54,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:16:00,16:20:00,4.0,16,Sunday
+54,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:20:00,16:24:00,4.0,16,Sunday
+54,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:24:00,16:29:00,5.0,16,Sunday
+54,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:29:00,16:32:00,3.0,16,Sunday
+54,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:32:00,16:34:00,2.0,16,Sunday
+55,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:18:00,16:23:00,5.0,16,Sunday
+55,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:23:00,16:28:00,5.0,16,Sunday
+55,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:28:00,16:32:00,4.0,16,Sunday
+55,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:32:00,16:36:00,4.0,16,Sunday
+55,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:36:00,16:41:00,5.0,16,Sunday
+55,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:41:00,16:44:00,3.0,16,Sunday
+55,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:44:00,16:46:00,2.0,16,Sunday
+56,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:30:00,16:35:00,5.0,16,Sunday
+56,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:35:00,16:40:00,5.0,16,Sunday
+56,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:40:00,16:44:00,4.0,16,Sunday
+56,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:44:00,16:48:00,4.0,16,Sunday
+56,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,16:48:00,16:53:00,5.0,16,Sunday
+56,ARL,go,A06,Makkasan,A07,Ratchaprarop,16:53:00,16:56:00,3.0,16,Sunday
+56,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,16:56:00,16:58:00,2.0,16,Sunday
+57,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:42:00,16:47:00,5.0,16,Sunday
+57,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:47:00,16:52:00,5.0,16,Sunday
+57,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,16:52:00,16:56:00,4.0,16,Sunday
+57,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,16:56:00,17:00:00,4.0,16,Sunday
+57,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:00:00,17:05:00,5.0,17,Sunday
+57,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:05:00,17:08:00,3.0,17,Sunday
+57,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:08:00,17:10:00,2.0,17,Sunday
+58,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,16:54:00,16:59:00,5.0,16,Sunday
+58,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,16:59:00,17:04:00,5.0,16,Sunday
+58,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:04:00,17:08:00,4.0,17,Sunday
+58,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:08:00,17:12:00,4.0,17,Sunday
+58,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:12:00,17:17:00,5.0,17,Sunday
+58,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:17:00,17:20:00,3.0,17,Sunday
+58,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:20:00,17:22:00,2.0,17,Sunday
+59,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:06:00,17:11:00,5.0,17,Sunday
+59,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:11:00,17:16:00,5.0,17,Sunday
+59,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:16:00,17:20:00,4.0,17,Sunday
+59,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:20:00,17:24:00,4.0,17,Sunday
+59,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:24:00,17:29:00,5.0,17,Sunday
+59,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:29:00,17:32:00,3.0,17,Sunday
+59,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:32:00,17:34:00,2.0,17,Sunday
+60,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:18:00,17:23:00,5.0,17,Sunday
+60,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:23:00,17:28:00,5.0,17,Sunday
+60,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:28:00,17:32:00,4.0,17,Sunday
+60,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:32:00,17:36:00,4.0,17,Sunday
+60,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:36:00,17:41:00,5.0,17,Sunday
+60,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:41:00,17:44:00,3.0,17,Sunday
+60,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:44:00,17:46:00,2.0,17,Sunday
+61,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:30:00,17:35:00,5.0,17,Sunday
+61,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:35:00,17:40:00,5.0,17,Sunday
+61,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:40:00,17:44:00,4.0,17,Sunday
+61,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:44:00,17:48:00,4.0,17,Sunday
+61,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,17:48:00,17:53:00,5.0,17,Sunday
+61,ARL,go,A06,Makkasan,A07,Ratchaprarop,17:53:00,17:56:00,3.0,17,Sunday
+61,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,17:56:00,17:58:00,2.0,17,Sunday
+62,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:42:00,17:47:00,5.0,17,Sunday
+62,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:47:00,17:52:00,5.0,17,Sunday
+62,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,17:52:00,17:56:00,4.0,17,Sunday
+62,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,17:56:00,18:00:00,4.0,17,Sunday
+62,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:00:00,18:05:00,5.0,18,Sunday
+62,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:05:00,18:08:00,3.0,18,Sunday
+62,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:08:00,18:10:00,2.0,18,Sunday
+63,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,17:54:00,17:59:00,5.0,17,Sunday
+63,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,17:59:00,18:04:00,5.0,17,Sunday
+63,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:04:00,18:08:00,4.0,18,Sunday
+63,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:08:00,18:12:00,4.0,18,Sunday
+63,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:12:00,18:17:00,5.0,18,Sunday
+63,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:17:00,18:20:00,3.0,18,Sunday
+63,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:20:00,18:22:00,2.0,18,Sunday
+64,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:06:00,18:11:00,5.0,18,Sunday
+64,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:11:00,18:16:00,5.0,18,Sunday
+64,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:16:00,18:20:00,4.0,18,Sunday
+64,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:20:00,18:24:00,4.0,18,Sunday
+64,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:24:00,18:29:00,5.0,18,Sunday
+64,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:29:00,18:32:00,3.0,18,Sunday
+64,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:32:00,18:34:00,2.0,18,Sunday
+65,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:18:00,18:23:00,5.0,18,Sunday
+65,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:23:00,18:28:00,5.0,18,Sunday
+65,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:28:00,18:32:00,4.0,18,Sunday
+65,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:32:00,18:36:00,4.0,18,Sunday
+65,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:36:00,18:41:00,5.0,18,Sunday
+65,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:41:00,18:44:00,3.0,18,Sunday
+65,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:44:00,18:46:00,2.0,18,Sunday
+66,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:30:00,18:35:00,5.0,18,Sunday
+66,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:35:00,18:40:00,5.0,18,Sunday
+66,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:40:00,18:44:00,4.0,18,Sunday
+66,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:44:00,18:48:00,4.0,18,Sunday
+66,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,18:48:00,18:53:00,5.0,18,Sunday
+66,ARL,go,A06,Makkasan,A07,Ratchaprarop,18:53:00,18:56:00,3.0,18,Sunday
+66,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,18:56:00,18:58:00,2.0,18,Sunday
+67,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:42:00,18:47:00,5.0,18,Sunday
+67,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:47:00,18:52:00,5.0,18,Sunday
+67,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,18:52:00,18:56:00,4.0,18,Sunday
+67,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,18:56:00,19:00:00,4.0,18,Sunday
+67,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:00:00,19:05:00,5.0,19,Sunday
+67,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:05:00,19:08:00,3.0,19,Sunday
+67,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:08:00,19:10:00,2.0,19,Sunday
+68,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,18:54:00,18:59:00,5.0,18,Sunday
+68,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,18:59:00,19:04:00,5.0,18,Sunday
+68,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:04:00,19:08:00,4.0,19,Sunday
+68,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:08:00,19:12:00,4.0,19,Sunday
+68,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:12:00,19:17:00,5.0,19,Sunday
+68,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:17:00,19:20:00,3.0,19,Sunday
+68,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:20:00,19:22:00,2.0,19,Sunday
+69,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:06:00,19:11:00,5.0,19,Sunday
+69,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:11:00,19:16:00,5.0,19,Sunday
+69,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:16:00,19:20:00,4.0,19,Sunday
+69,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:20:00,19:24:00,4.0,19,Sunday
+69,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:24:00,19:29:00,5.0,19,Sunday
+69,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:29:00,19:32:00,3.0,19,Sunday
+69,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:32:00,19:34:00,2.0,19,Sunday
+70,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:18:00,19:23:00,5.0,19,Sunday
+70,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:23:00,19:28:00,5.0,19,Sunday
+70,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:28:00,19:32:00,4.0,19,Sunday
+70,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:32:00,19:36:00,4.0,19,Sunday
+70,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:36:00,19:41:00,5.0,19,Sunday
+70,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:41:00,19:44:00,3.0,19,Sunday
+70,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:44:00,19:46:00,2.0,19,Sunday
+71,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:30:00,19:35:00,5.0,19,Sunday
+71,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:35:00,19:40:00,5.0,19,Sunday
+71,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:40:00,19:44:00,4.0,19,Sunday
+71,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:44:00,19:48:00,4.0,19,Sunday
+71,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,19:48:00,19:53:00,5.0,19,Sunday
+71,ARL,go,A06,Makkasan,A07,Ratchaprarop,19:53:00,19:56:00,3.0,19,Sunday
+71,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,19:56:00,19:58:00,2.0,19,Sunday
+72,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:42:00,19:47:00,5.0,19,Sunday
+72,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:47:00,19:52:00,5.0,19,Sunday
+72,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,19:52:00,19:56:00,4.0,19,Sunday
+72,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,19:56:00,20:00:00,4.0,19,Sunday
+72,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:00:00,20:05:00,5.0,20,Sunday
+72,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:05:00,20:08:00,3.0,20,Sunday
+72,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:08:00,20:10:00,2.0,20,Sunday
+73,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,19:54:00,19:59:00,5.0,19,Sunday
+73,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,19:59:00,20:04:00,5.0,19,Sunday
+73,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:04:00,20:08:00,4.0,20,Sunday
+73,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:08:00,20:12:00,4.0,20,Sunday
+73,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:12:00,20:17:00,5.0,20,Sunday
+73,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:17:00,20:20:00,3.0,20,Sunday
+73,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:20:00,20:22:00,2.0,20,Sunday
+74,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:06:00,20:11:00,5.0,20,Sunday
+74,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:11:00,20:16:00,5.0,20,Sunday
+74,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:16:00,20:20:00,4.0,20,Sunday
+74,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:20:00,20:24:00,4.0,20,Sunday
+74,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:24:00,20:29:00,5.0,20,Sunday
+74,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:29:00,20:32:00,3.0,20,Sunday
+74,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:32:00,20:34:00,2.0,20,Sunday
+75,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:18:00,20:23:00,5.0,20,Sunday
+75,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:23:00,20:28:00,5.0,20,Sunday
+75,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:28:00,20:32:00,4.0,20,Sunday
+75,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:32:00,20:36:00,4.0,20,Sunday
+75,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:36:00,20:41:00,5.0,20,Sunday
+75,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:41:00,20:44:00,3.0,20,Sunday
+75,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:44:00,20:46:00,2.0,20,Sunday
+76,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:30:00,20:35:00,5.0,20,Sunday
+76,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:35:00,20:40:00,5.0,20,Sunday
+76,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:40:00,20:44:00,4.0,20,Sunday
+76,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:44:00,20:48:00,4.0,20,Sunday
+76,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,20:48:00,20:53:00,5.0,20,Sunday
+76,ARL,go,A06,Makkasan,A07,Ratchaprarop,20:53:00,20:56:00,3.0,20,Sunday
+76,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,20:56:00,20:58:00,2.0,20,Sunday
+77,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:42:00,20:47:00,5.0,20,Sunday
+77,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:47:00,20:52:00,5.0,20,Sunday
+77,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,20:52:00,20:56:00,4.0,20,Sunday
+77,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,20:56:00,21:00:00,4.0,20,Sunday
+77,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:00:00,21:05:00,5.0,21,Sunday
+77,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:05:00,21:08:00,3.0,21,Sunday
+77,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:08:00,21:10:00,2.0,21,Sunday
+78,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,20:54:00,20:59:00,5.0,20,Sunday
+78,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,20:59:00,21:04:00,5.0,20,Sunday
+78,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:04:00,21:08:00,4.0,21,Sunday
+78,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:08:00,21:12:00,4.0,21,Sunday
+78,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:12:00,21:17:00,5.0,21,Sunday
+78,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:17:00,21:20:00,3.0,21,Sunday
+78,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:20:00,21:22:00,2.0,21,Sunday
+79,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:06:00,21:11:00,5.0,21,Sunday
+79,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:11:00,21:16:00,5.0,21,Sunday
+79,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:16:00,21:20:00,4.0,21,Sunday
+79,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:20:00,21:24:00,4.0,21,Sunday
+79,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:24:00,21:29:00,5.0,21,Sunday
+79,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:29:00,21:32:00,3.0,21,Sunday
+79,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:32:00,21:34:00,2.0,21,Sunday
+80,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:18:00,21:23:00,5.0,21,Sunday
+80,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:23:00,21:28:00,5.0,21,Sunday
+80,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:28:00,21:32:00,4.0,21,Sunday
+80,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:32:00,21:36:00,4.0,21,Sunday
+80,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:36:00,21:41:00,5.0,21,Sunday
+80,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:41:00,21:44:00,3.0,21,Sunday
+80,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:44:00,21:46:00,2.0,21,Sunday
+81,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:30:00,21:35:00,5.0,21,Sunday
+81,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:35:00,21:40:00,5.0,21,Sunday
+81,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:40:00,21:44:00,4.0,21,Sunday
+81,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:44:00,21:48:00,4.0,21,Sunday
+81,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,21:48:00,21:53:00,5.0,21,Sunday
+81,ARL,go,A06,Makkasan,A07,Ratchaprarop,21:53:00,21:56:00,3.0,21,Sunday
+81,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,21:56:00,21:58:00,2.0,21,Sunday
+82,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:42:00,21:47:00,5.0,21,Sunday
+82,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:47:00,21:52:00,5.0,21,Sunday
+82,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,21:52:00,21:56:00,4.0,21,Sunday
+82,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,21:56:00,22:00:00,4.0,21,Sunday
+82,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:00:00,22:05:00,5.0,22,Sunday
+82,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:05:00,22:08:00,3.0,22,Sunday
+82,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:08:00,22:10:00,2.0,22,Sunday
+83,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,21:54:00,21:59:00,5.0,21,Sunday
+83,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,21:59:00,22:04:00,5.0,21,Sunday
+83,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:04:00,22:08:00,4.0,22,Sunday
+83,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:08:00,22:12:00,4.0,22,Sunday
+83,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:12:00,22:17:00,5.0,22,Sunday
+83,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:17:00,22:20:00,3.0,22,Sunday
+83,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:20:00,22:22:00,2.0,22,Sunday
+84,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:06:00,22:11:00,5.0,22,Sunday
+84,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:11:00,22:16:00,5.0,22,Sunday
+84,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:16:00,22:20:00,4.0,22,Sunday
+84,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:20:00,22:24:00,4.0,22,Sunday
+84,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:24:00,22:29:00,5.0,22,Sunday
+84,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:29:00,22:32:00,3.0,22,Sunday
+84,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:32:00,22:34:00,2.0,22,Sunday
+85,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:18:00,22:23:00,5.0,22,Sunday
+85,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:23:00,22:28:00,5.0,22,Sunday
+85,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:28:00,22:32:00,4.0,22,Sunday
+85,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:32:00,22:36:00,4.0,22,Sunday
+85,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:36:00,22:41:00,5.0,22,Sunday
+85,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:41:00,22:44:00,3.0,22,Sunday
+85,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:44:00,22:46:00,2.0,22,Sunday
+86,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:30:00,22:35:00,5.0,22,Sunday
+86,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:35:00,22:40:00,5.0,22,Sunday
+86,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:40:00,22:44:00,4.0,22,Sunday
+86,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:44:00,22:48:00,4.0,22,Sunday
+86,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,22:48:00,22:53:00,5.0,22,Sunday
+86,ARL,go,A06,Makkasan,A07,Ratchaprarop,22:53:00,22:56:00,3.0,22,Sunday
+86,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,22:56:00,22:58:00,2.0,22,Sunday
+87,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:42:00,22:47:00,5.0,22,Sunday
+87,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:47:00,22:52:00,5.0,22,Sunday
+87,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,22:52:00,22:56:00,4.0,22,Sunday
+87,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,22:56:00,23:00:00,4.0,22,Sunday
+87,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:00:00,23:05:00,5.0,23,Sunday
+87,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:05:00,23:08:00,3.0,23,Sunday
+87,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:08:00,23:10:00,2.0,23,Sunday
+88,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,22:54:00,22:59:00,5.0,22,Sunday
+88,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,22:59:00,23:04:00,5.0,22,Sunday
+88,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:04:00,23:08:00,4.0,23,Sunday
+88,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:08:00,23:12:00,4.0,23,Sunday
+88,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:12:00,23:17:00,5.0,23,Sunday
+88,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:17:00,23:20:00,3.0,23,Sunday
+88,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:20:00,23:22:00,2.0,23,Sunday
+89,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:06:00,23:11:00,5.0,23,Sunday
+89,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:11:00,23:16:00,5.0,23,Sunday
+89,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:16:00,23:20:00,4.0,23,Sunday
+89,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:20:00,23:24:00,4.0,23,Sunday
+89,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:24:00,23:29:00,5.0,23,Sunday
+89,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:29:00,23:32:00,3.0,23,Sunday
+89,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:32:00,23:34:00,2.0,23,Sunday
+90,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:18:00,23:23:00,5.0,23,Sunday
+90,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:23:00,23:28:00,5.0,23,Sunday
+90,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:28:00,23:32:00,4.0,23,Sunday
+90,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:32:00,23:36:00,4.0,23,Sunday
+90,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:36:00,23:41:00,5.0,23,Sunday
+90,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:41:00,23:44:00,3.0,23,Sunday
+90,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:44:00,23:46:00,2.0,23,Sunday
+91,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:30:00,23:35:00,5.0,23,Sunday
+91,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:35:00,23:40:00,5.0,23,Sunday
+91,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:40:00,23:44:00,4.0,23,Sunday
+91,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:44:00,23:48:00,4.0,23,Sunday
+91,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,23:48:00,23:53:00,5.0,23,Sunday
+91,ARL,go,A06,Makkasan,A07,Ratchaprarop,23:53:00,23:56:00,3.0,23,Sunday
+91,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,23:56:00,23:58:00,2.0,23,Sunday
+92,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:42:00,23:47:00,5.0,23,Sunday
+92,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:47:00,23:52:00,5.0,23,Sunday
+92,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,23:52:00,23:56:00,4.0,23,Sunday
+92,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,23:56:00,00:00:00,3.9833333333333334,23,Sunday
+92,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,00:00:00,00:05:00,5.0,0,Monday
+92,ARL,go,A06,Makkasan,A07,Ratchaprarop,00:05:00,00:08:00,3.0,0,Monday
+92,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,00:08:00,00:10:00,2.0,0,Monday
+93,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,23:54:00,23:59:00,5.0,23,Sunday
+93,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,23:59:00,00:04:00,4.983333333333333,23,Sunday
+93,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,00:04:00,00:08:00,4.0,0,Monday
+93,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,00:08:00,00:12:00,4.0,0,Monday
+93,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,00:12:00,00:17:00,5.0,0,Monday
+93,ARL,go,A06,Makkasan,A07,Ratchaprarop,00:17:00,00:20:00,3.0,0,Monday
+93,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,00:20:00,00:22:00,2.0,0,Monday
+94,ARL,go,A01,Suvarnabhumi,A02,Lat Krabang,00:00:00,00:05:00,5.0,0,Monday
+94,ARL,go,A02,Lat Krabang,A03,Ban Thap Chang,00:05:00,00:10:00,5.0,0,Monday
+94,ARL,go,A03,Ban Thap Chang,A04,Hua Mak,00:10:00,00:14:00,4.0,0,Monday
+94,ARL,go,A04,Hua Mak,A05,Ramkhamhaeng,00:14:00,00:18:00,4.0,0,Monday
+94,ARL,go,A05,Ramkhamhaeng,A06,Makkasan,00:18:00,00:23:00,5.0,0,Monday
+94,ARL,go,A06,Makkasan,A07,Ratchaprarop,00:23:00,00:26:00,3.0,0,Monday
+94,ARL,go,A07,Ratchaprarop,A08,Phaya Thai,00:26:00,00:28:00,2.0,0,Monday
