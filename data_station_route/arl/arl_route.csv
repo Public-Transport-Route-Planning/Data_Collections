@@ -1,0 +1,17 @@
+route_id,path_type,direction,seq,sid,sname,lat,lon
+ARL,main,go,0,A01,Suvarnabhumi,13.69808701,100.7522355
+ARL,main,go,1,A02,Lat Krabang,13.72773403,100.7486244
+ARL,main,go,2,A03,Ban Thap Chang,13.73284402,100.6914572
+ARL,main,go,3,A04,Hua Mak,13.73795756,100.6453466
+ARL,main,go,4,A05,Ramkhamhaeng,13.74295281,100.6003118
+ARL,main,go,5,A06,Makkasan,13.75105968,100.5611013
+ARL,main,go,6,A07,Ratchaprarop,13.75513782,100.5418289
+ARL,main,go,7,A08,Phaya Thai,13.75671306,100.5349773
+ARL,main,back,0,A08,Phaya Thai,13.75671306,100.5349773
+ARL,main,back,1,A07,Ratchaprarop,13.75513782,100.5418289
+ARL,main,back,2,A06,Makkasan,13.75105968,100.5611013
+ARL,main,back,3,A05,Ramkhamhaeng,13.74295281,100.6003118
+ARL,main,back,4,A04,Hua Mak,13.73795756,100.6453466
+ARL,main,back,5,A03,Ban Thap Chang,13.73284402,100.6914572
+ARL,main,back,6,A02,Lat Krabang,13.72773403,100.7486244
+ARL,main,back,7,A01,Suvarnabhumi,13.69808701,100.7522355

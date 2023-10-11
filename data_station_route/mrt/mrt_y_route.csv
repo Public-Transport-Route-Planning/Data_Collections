@@ -1,0 +1,47 @@
+route_id,path_type,direction,seq,sid,sname,lat,lon
+MRT-Y,main,go,0,YL01,Lat Phrao,13.807,100.574789
+MRT-Y,main,go,1,YL02,Phawana,13.80012,100.58424
+MRT-Y,main,go,2,YL03,Chok Chai 4,13.79444,100.59436
+MRT-Y,main,go,3,YL04,Lat Phrao 71,13.78731,100.60712
+MRT-Y,main,go,4,YL05,Lat Phrao 83,13.78366,100.61371
+MRT-Y,main,go,5,YL06,Mahat Thai,13.77806,100.62369
+MRT-Y,main,go,6,YL07,Lat Phrao 101,13.77436,100.63036
+MRT-Y,main,go,7,YL08,Bang Kapi,13.769,100.63983
+MRT-Y,main,go,8,YL09,Yaek Lam Sali,13.76167,100.64553
+MRT-Y,main,go,9,YL10,Si Kritha,13.75075,100.6449
+MRT-Y,main,go,10,YL11,Hua Mak,13.736591,100.6412499
+MRT-Y,main,go,11,YL12,Kalantan,13.72562,100.64175
+MRT-Y,main,go,12,YL13,Si Nut,13.71276,100.64375
+MRT-Y,main,go,13,YL14,Srinagarindra 38,13.70061,100.64658
+MRT-Y,main,go,14,YL15,Suan Luang Rama IX,13.69079,100.64709
+MRT-Y,main,go,15,YL16,Si Udom,13.67778,100.64606
+MRT-Y,main,go,16,YL17,Si Iam,13.6663,100.64436
+MRT-Y,main,go,17,YL18,Si La Salle,13.65599,100.64231
+MRT-Y,main,go,18,YL19,Si Bearing,13.64458,100.63685
+MRT-Y,main,go,19,YL20,Si Dan,13.63194,100.62941
+MRT-Y,main,go,20,YL21,Si Thepha,13.62784,100.62646
+MRT-Y,main,go,21,YL22,Thipphawan,13.63743,100.60866
+MRT-Y,main,go,22,YL23,Samrong,13.645083,100.5965673
+MRT-Y,main,back,0,YL23,Samrong,13.645083,100.5965673
+MRT-Y,main,back,1,YL22,Thipphawan,13.63743,100.60866
+MRT-Y,main,back,2,YL21,Si Thepha,13.62784,100.62646
+MRT-Y,main,back,3,YL20,Si Dan,13.63194,100.62941
+MRT-Y,main,back,4,YL19,Si Bearing,13.64458,100.63685
+MRT-Y,main,back,5,YL18,Si La Salle,13.65599,100.64231
+MRT-Y,main,back,6,YL17,Si Iam,13.6663,100.64436
+MRT-Y,main,back,7,YL16,Si Udom,13.67778,100.64606
+MRT-Y,main,back,8,YL15,Suan Luang Rama IX,13.69079,100.64709
+MRT-Y,main,back,9,YL14,Srinagarindra 38,13.70061,100.64658
+MRT-Y,main,back,10,YL13,Si Nut,13.71276,100.64375
+MRT-Y,main,back,11,YL12,Kalantan,13.72562,100.64175
+MRT-Y,main,back,12,YL11,Hua Mak,13.736591,100.6412499
+MRT-Y,main,back,13,YL10,Si Kritha,13.75075,100.6449
+MRT-Y,main,back,14,YL09,Yaek Lam Sali,13.76167,100.64553
+MRT-Y,main,back,15,YL08,Bang Kapi,13.769,100.63983
+MRT-Y,main,back,16,YL07,Lat Phrao 101,13.77436,100.63036
+MRT-Y,main,back,17,YL06,Mahat Thai,13.77806,100.62369
+MRT-Y,main,back,18,YL05,Lat Phrao 83,13.78366,100.61371
+MRT-Y,main,back,19,YL04,Lat Phrao 71,13.78731,100.60712
+MRT-Y,main,back,20,YL03,Chok Chai 4,13.79444,100.59436
+MRT-Y,main,back,21,YL02,Phawana,13.80012,100.58424
+MRT-Y,main,back,22,YL01,Lat Phrao,13.807,100.574789
