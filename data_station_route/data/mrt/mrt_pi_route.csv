@@ -1,0 +1,61 @@
+route_id,path_type,direction,seq,sid,sname,lat,lon
+MRT-PI,main,go,0,PK01,Nonthaburi Civic Center,13.8597915,100.518118
+MRT-PI,main,go,1,PK02,Khae Rai,13.8625,100.52077
+MRT-PI,main,go,2,PK03,Sanambin Nam,13.8741832,100.5163222
+MRT-PI,main,go,3,PK04,Samakkhi,13.8893974,100.510519
+MRT-PI,main,go,4,PK05,Royal Irrigation Department,13.89861,100.50712
+MRT-PI,main,go,5,PK06,Yaek Pak Kret,13.9064372,100.5053929
+MRT-PI,main,go,6,PK07,Pak Kret Bypass,13.90642,100.51582
+MRT-PI,main,go,7,PK08,Chaeng Watthana - Pak Kret 28,13.9041,100.52918
+MRT-PI,main,go,8,PK09,Si Rat,13.900575,100.5398895
+MRT-PI,main,go,9,PK10,Muang Thong Thani,13.8974836,100.548324
+MRT-PI,main,go,10,PK11,Chaeng Watthana 14,13.89316,100.56037
+MRT-PI,main,go,11,PK12,Government Complex,13.89072,100.56732
+MRT-PI,main,go,12,PK13,National Telecom,13.88743,100.57579
+MRT-PI,main,go,13,PK14,Lak Si,13.8841078,100.5825843
+MRT-PI,main,go,14,PK15,Rajabhat Phranakhon,13.8798,100.58952
+MRT-PI,main,go,15,PK16,Wat Phra Sri Mahathat,13.87448,100.59724
+MRT-PI,main,go,16,PK17,Ram Inthra 3,13.87082,100.60286
+MRT-PI,main,go,17,PK18,Lat Pla Khao,13.8627,100.61794
+MRT-PI,main,go,18,PK19,Ram Inthra Kor Mor 4,13.85825,100.62618
+MRT-PI,main,go,19,PK20,Maiyalap,13.85504,100.63222
+MRT-PI,main,go,20,PK21,Vacharaphol,13.84996,100.64159
+MRT-PI,main,go,21,PK22,Ram Inthra Kor Mor 6,13.8452,100.65033
+MRT-PI,main,go,22,PK23,Khu Bon,13.84048,100.65907
+MRT-PI,main,go,23,PK24,Ram Inthra Kor Mor 9,13.83383,100.66748
+MRT-PI,main,go,24,PK25,Outer Ring Road - Ram Inthra,13.82464,100.67704
+MRT-PI,main,go,25,PK26,Nopparat,13.81657,100.68555
+MRT-PI,main,go,26,PK27,Bang Chan,13.81271,100.70341
+MRT-PI,main,go,27,PK28,Setthabutbamphen,13.8127,100.71321
+MRT-PI,main,go,28,PK29,Min Buri Market,13.81255,100.72565
+MRT-PI,main,go,29,PK30,Min Buri,13.80847,100.73266
+MRT-PI,main,back,0,PK30,Min Buri,13.80847,100.73266
+MRT-PI,main,back,1,PK29,Min Buri Market,13.81255,100.72565
+MRT-PI,main,back,2,PK28,Setthabutbamphen,13.8127,100.71321
+MRT-PI,main,back,3,PK27,Bang Chan,13.81271,100.70341
+MRT-PI,main,back,4,PK26,Nopparat,13.81657,100.68555
+MRT-PI,main,back,5,PK25,Outer Ring Road - Ram Inthra,13.82464,100.67704
+MRT-PI,main,back,6,PK24,Ram Inthra Kor Mor 9,13.83383,100.66748
+MRT-PI,main,back,7,PK23,Khu Bon,13.84048,100.65907
+MRT-PI,main,back,8,PK22,Ram Inthra Kor Mor 6,13.8452,100.65033
+MRT-PI,main,back,9,PK21,Vacharaphol,13.84996,100.64159
+MRT-PI,main,back,10,PK20,Maiyalap,13.85504,100.63222
+MRT-PI,main,back,11,PK19,Ram Inthra Kor Mor 4,13.85825,100.62618
+MRT-PI,main,back,12,PK18,Lat Pla Khao,13.8627,100.61794
+MRT-PI,main,back,13,PK17,Ram Inthra 3,13.87082,100.60286
+MRT-PI,main,back,14,PK16,Wat Phra Sri Mahathat,13.87448,100.59724
+MRT-PI,main,back,15,PK15,Rajabhat Phranakhon,13.8798,100.58952
+MRT-PI,main,back,16,PK14,Lak Si,13.8841078,100.5825843
+MRT-PI,main,back,17,PK13,National Telecom,13.88743,100.57579
+MRT-PI,main,back,18,PK12,Government Complex,13.89072,100.56732
+MRT-PI,main,back,19,PK11,Chaeng Watthana 14,13.89316,100.56037
+MRT-PI,main,back,20,PK10,Muang Thong Thani,13.8974836,100.548324
+MRT-PI,main,back,21,PK09,Si Rat,13.900575,100.5398895
+MRT-PI,main,back,22,PK08,Chaeng Watthana - Pak Kret 28,13.9041,100.52918
+MRT-PI,main,back,23,PK07,Pak Kret Bypass,13.90642,100.51582
+MRT-PI,main,back,24,PK06,Yaek Pak Kret,13.9064372,100.5053929
+MRT-PI,main,back,25,PK05,Royal Irrigation Department,13.89861,100.50712
+MRT-PI,main,back,26,PK04,Samakkhi,13.8893974,100.510519
+MRT-PI,main,back,27,PK03,Sanambin Nam,13.8741832,100.5163222
+MRT-PI,main,back,28,PK02,Khae Rai,13.8625,100.52077
+MRT-PI,main,back,29,PK01,Nonthaburi Civic Center,13.8597915,100.518118
